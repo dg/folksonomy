@@ -8,7 +8,7 @@ Every day a script runs and pulls from this repository redefining how OSS projec
 
 # How it works
 
-Every file in this repository (except for the README.md file) represents a tag (category) that groups several open-source software projects.
+Every file in this repository (except for the README.md and LICENSE files) represents a tag (category) that groups several open-source software projects.
 The filename corresponds to the tag name.
 
 The format of files is CSV, so each file is effectively a table.
