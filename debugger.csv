@@ -1,0 +1,3 @@
+src_url,vcs,name,web_url,description
+https://github.com/go-delve/delve,git,go-delve/delve,,
+https://github.com/0xd4d/dnSpy,git,dnSpy,,.NET debugger and assembly editor

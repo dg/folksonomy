@@ -1,0 +1,2 @@
+src_url,vcs,name,web_url,description
+https://github.com/Qiskit/qiskit-terra,git,Qiskit Terra,https://qiskit.org/terra,"An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms."

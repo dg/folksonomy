@@ -1,0 +1,5 @@
+src_url,vcs,name,web_url,description
+https://github.com/microsoft/terminal,git,microsoft/terminal,,
+https://github.com/mbadolato/iTerm2-Color-Schemes,git,mbadolato/iTerm2-Color-Schemes,,
+https://github.com/gnachman/iTerm2,git,gnachman/iTerm2,,
+https://github.com/termux/termux-packages,git,termux/termux-packages,,

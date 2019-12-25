@@ -1,0 +1,16 @@
+src_url,vcs,name,web_url,description
+https://github.com/photonstorm/phaser,git,photonstorm/phaser,,
+https://github.com/libgdx/libgdx,git,libgdx/libgdx,,
+https://github.com/cocos2d/cocos2d-x,git,cocos2d/cocos2d-x,,
+https://github.com/BabylonJS/Babylon.js,git,BabylonJS/Babylon.js,,
+https://github.com/RPCS3/rpcs3,git,RPCS3/rpcs3,,
+https://github.com/OpenRA/OpenRA,git,OpenRA/OpenRA,,
+https://github.com/TrinityCore/TrinityCore,git,TrinityCore/TrinityCore,,
+https://github.com/bulletphysics/bullet3,git,bulletphysics/bullet3,,
+https://github.com/assimp/assimp,git,assimp/assimp,,
+https://github.com/minetest/minetest,git,minetest/minetest,,
+https://github.com/jMonkeyEngine/jmonkeyengine,git,jMonkeyEngine,https://jmonkeyengine.org/,A complete 3D game development suite written purely in Java.
+https://github.com/MovingBlocks/Terasology,git,Terasology,https://terasology.org/,The Terasology project was born from a Minecraft-inspired tech demo and is becoming a stable platform for various types of gameplay settings in a voxel world.
+https://github.com/MinecraftForge/MinecraftForge,git,MinecraftForge,https://files.minecraftforge.net/,Modifications to the Minecraft base files to assist in compatibility between mods.
+https://github.com/microsoft/MixedRealityToolkit-Unity,git,MRTK,https://microsoft.github.io/MixedRealityToolkit-Unity,"Mixed Reality Tooklit is a Microsoft-driven project that provides a set of components and features, used to accelerate cross-platform MR app development in Unity."
+https://github.com/EsotericSoftware/spine-runtimes,git,Spine Runtimes,http://esotericsoftware.com/,2D skeletal animation runtimes for Spine.

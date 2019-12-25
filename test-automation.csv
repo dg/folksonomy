@@ -1,0 +1,14 @@
+src_url,vcs,name,web_url,description
+https://github.com/facebook/jest,git,facebook/jest,,
+https://github.com/square/leakcanary,git,square/leakcanary,,
+https://github.com/mochajs/mocha,git,mochajs/mocha,,
+https://github.com/cypress-io/cypress,git,cypress-io/cypress,,
+https://github.com/SeleniumHQ/selenium,git,SeleniumHQ/selenium,,
+https://github.com/sebastianbergmann/phpunit,git,sebastianbergmann/phpunit,,
+https://github.com/appium/appium,git,appium/appium,,
+https://github.com/mockito/mockito,git,mockito/mockito,,
+https://github.com/wix/Detox,git,wix/Detox,,
+https://github.com/webdriverio/webdriverio,git,webdriverio/webdriverio,,
+https://github.com/pytest-dev/pytest,git,pytest-dev/pytest,,
+https://github.com/robotframework/robotframework,git,robotframework/robotframework,,
+https://github.com/cucumber/cucumber-jvm,git,Cucumber,https://cucumber.io/,A tool that supports Behaviour-Driven Development (BDD).

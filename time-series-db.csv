@@ -1,0 +1,3 @@
+src_url,vcs,name,web_url,description
+https://github.com/prometheus/prometheus,git,prometheus/prometheus,,
+https://github.com/influxdata/influxdb,git,influxdata/influxdb,,

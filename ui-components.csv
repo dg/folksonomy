@@ -1,0 +1,35 @@
+src_url,vcs,name,web_url,description
+https://github.com/twbs/bootstrap,git,Bootstrap,https://getbootstrap.com/,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+https://github.com/ant-design/ant-design,git,ant-design/ant-design,,
+https://github.com/mui-org/material-ui,git,Material-UI,,
+https://github.com/storybookjs/storybook,git,storybookjs/storybook,,
+https://github.com/vuetifyjs/vuetify,git,vuetifyjs/vuetify,,
+https://github.com/angular/components,git,angular/components,,
+https://github.com/codemirror/CodeMirror,git,codemirror/CodeMirror,,
+https://github.com/atlassian/react-beautiful-dnd,git,atlassian/react-beautiful-dnd,,
+https://github.com/react-bootstrap/react-bootstrap,git,react-bootstrap/react-bootstrap,,
+https://github.com/ianstormtaylor/slate,git,ianstormtaylor/slate,,
+https://github.com/palantir/blueprint,git,palantir/blueprint,,
+https://github.com/material-components/material-components-web,git,material-components/material-components-web,,
+https://github.com/ampproject/amphtml,git,AMP,,
+https://github.com/handsontable/handsontable,git,handsontable/handsontable,,
+https://github.com/youzan/vant,git,youzan/vant,,
+https://github.com/Semantic-Org/Semantic-UI-React,git,Semantic-Org/Semantic-UI-React,,
+https://github.com/bootstrap-vue/bootstrap-vue,git,bootstrap-vue/bootstrap-vue,,
+https://github.com/airbnb/react-dates,git,airbnb/react-dates,,
+https://github.com/wenzhixin/bootstrap-table,git,wenzhixin/bootstrap-table,,
+https://github.com/tannerlinsley/react-table,git,tannerlinsley/react-table,,
+https://github.com/ether/etherpad-lite,git,ether/etherpad-lite,,
+https://github.com/simple-icons/simple-icons,git,simple-icons/simple-icons,,
+https://github.com/OfficeDev/office-ui-fabric-react,git,OfficeDev/office-ui-fabric-react,,
+https://github.com/ag-grid/ag-grid,git,ag-grid/ag-grid,,
+https://github.com/primefaces/primeng,git,primefaces/primeng,,
+https://github.com/wix/react-native-calendars,git,wix/react-native-calendars,,
+https://github.com/ckeditor/ckeditor4,git,ckeditor/ckeditor4,,
+https://github.com/Hacker0x01/react-datepicker,git,Hacker0x01/react-datepicker,,
+https://github.com/adazzle/react-data-grid,git,adazzle/react-data-grid,,
+https://github.com/LLK/scratch-gui,git,Scratch GUI,,A set of React components that comprise the interface for creating and running Scratch 3.0 projects.
+https://github.com/alexanmtz/material-sense,git,Material Sense,https://alexanmtz.github.io/material-sense,"A React Material UI template to create rich applications with wizards, charts and ranges"
+https://github.com/probablyup/markdown-to-jsx,git,markdown-to-jsx,https://probablyup.com/markdown-to-jsx/,"The most lightweight, customizable React markdown component. It takes Github-flavored Markdown (GFM) and makes native JSX without dangerous hacks."
+https://github.com/jaredpalmer/formik,git,Formik,https://jaredpalmer.com/formik,"Build forms in React, without the tears."
+https://github.com/mbrn/material-table,git,material-table,https://material-table.com/,Datatable for React based on material-ui's table with additional features

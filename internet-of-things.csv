@@ -1,0 +1,14 @@
+src_url,vcs,name,web_url,description
+https://github.com/esp8266/Arduino,git,esp8266/Arduino,,
+https://github.com/arduino/Arduino,git,arduino/Arduino,,
+https://github.com/micropython/micropython,git,MicroPython,,
+https://github.com/raspberrypi/linux,git,Raspberry Pi Linux,,
+https://github.com/emqx/emqx,git,emqx/emqx,,
+https://github.com/thingsboard/thingsboard,git,thingsboard/thingsboard,,
+https://github.com/espressif/esp-idf,git,espressif/esp-idf,,
+https://github.com/espressif/arduino-esp32,git,espressif/arduino-esp32,,
+https://github.com/RT-Thread/rt-thread,git,RT-Thread/rt-thread,,
+https://github.com/raspberrypi/documentation,git,raspberrypi/documentation,,
+https://github.com/zephyrproject-rtos/zephyr,git,Zephyr OS,https://www.zephyrproject.org/,"The Zephyr OS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications. The Zephyr kernel supports multiple architectures, including ARM Cortex-M, Intel x86, ARC, NIOS II, Tensilica Xtensa and RISC-V 32."
+https://github.com/RIOT-OS/RIOT,git,RIOT,https://github.com/RIOT-OS/RIOT/wiki,The friendly OS for IoT
+https://github.com/ARMmbed/mbed-os,git,Mbed,https://www.mbed.com/en/,Arm Mbed OS is a platform operating system designed for the internet of things

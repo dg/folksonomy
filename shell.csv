@@ -1,0 +1,6 @@
+src_url,vcs,name,web_url,description
+https://github.com/PowerShell/PowerShell,git,PowerShell/PowerShell,,
+https://github.com/fish-shell/fish-shell,git,fish-shell/fish-shell,,
+https://github.com/Bash-it/bash-it,git,Bash-it/bash-it,,
+https://git.kernel.org/pub/scm/utils/dash/dash.git,git,DASH,http://gondor.apana.org.au/~herbert/dash/,"A POSIX-compliant implementation of /bin/sh that aims to be as small as possible. It does this without sacrificing speed where possible. In fact, it is significantly faster than bash (the GNU Bourne-Again SHell) for most tasks."
+https://git.savannah.gnu.org/git/bash.git,git,GNU Bash,https://www.gnu.org/software/bash/,"GNU Project's shell, which is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)."

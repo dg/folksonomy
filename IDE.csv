@@ -1,0 +1,9 @@
+src_url,vcs,name,web_url,description
+https://github.com/microsoft/vscode,git,Visual Studio Code,https://code.visualstudio.com/,Visual Studio Code
+https://github.com/syl20bnr/spacemacs,git,syl20bnr/spacemacs,,
+https://github.com/jupyterlab/jupyterlab,git,jupyterlab/jupyterlab,,
+https://github.com/JetBrains/intellij-community,git,IntelliJ IDEA,,
+https://github.com/codesandbox/codesandbox-client,git,codesandbox/codesandbox-client,,
+https://github.com/jupyter/notebook,git,jupyter/notebook,,
+https://github.com/eclipse/che,git,eclipse/che,,
+https://github.com/spyder-ide/spyder,git,spyder-ide/spyder,,

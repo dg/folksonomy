@@ -1,0 +1,24 @@
+src_url,vcs,name,web_url,description
+https://github.com/webpack/webpack,git,webpack/webpack,,
+https://github.com/vuejs/vue-cli,git,vuejs/vue-cli,,
+https://github.com/angular/angular-cli,git,angular/angular-cli,,
+https://github.com/bazelbuild/bazel,git,Bazel,,
+https://github.com/gradle/gradle,git,gradle/gradle,,
+https://github.com/facebook/buck,git,facebook/buck,,
+https://github.com/pyinstaller/pyinstaller,git,pyinstaller/pyinstaller,,
+https://git.savannah.gnu.org/git/autoconf.git,git,GNU Autoconf,https://www.gnu.org/software/autoconf/,An extensible package of M4 macros that produce shell scripts to automatically configure software source code packages.
+https://git.savannah.gnu.org/git/automake.git,git,GNU Automake,https://www.gnu.org/software/automake/,A tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of Autoconf.
+https://git.savannah.gnu.org/git/make.git,git,GNU Make,https://www.gnu.org/software/make/,A tool which controls the generation of executables and other non-source files of a program from the program's source files.
+https://github.com/browserify/browserify,git,Browserify,http://browserify.org/,"Browsers don't have the require method defined, but Node.js does. With Browserify you can write code that uses require in the same way that you would use it in Node."
+https://github.com/gulpjs/gulp,git,gulp,https://gulpjs.com/,The streaming build system
+https://github.com/gruntjs/grunt,git,Grunt,https://gruntjs.com/,Grunt: The JavaScript Task Runner
+https://github.com/facebook/create-react-app,git,Create React App,https://create-react-app.dev/,Set up a modern web app by running one command.
+https://github.com/insin/nwb,git,nwb,,"A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)"
+https://github.com/neutrinojs/neutrino,git,Neutrino,https://neutrinojs.org/,Create and build modern JavaScript applications with zero initial configuration. Neutrino combines the power of webpack with the simplicity of presets.
+https://github.com/rails/webpacker,git,Webpacker,,Use Webpack to manage app-like JavaScript modules in Rails
+https://github.com/symfony/webpack-encore,git,Webpack Encore,https://symfony.com/doc/current/frontend.html,A simple but powerful API for processing & compiling assets built around Webpack
+https://github.com/jaredpalmer/razzle,git,Razzle,,"Universal JavaScript applications are tough to setup. Either you buy into a framework like Next.js or react-server, fork a boilerplate, or set things up yourself. Aiming to fill this void, Razzle is a tool that abstracts all complex configuration needed for SSR into a single dependency - giving you the awesome developer experience of create-react-app, but then leaving the rest of your app's architectural decisions about frameworks, routing, and data fetching up to you. With this approach, Razzle not only works with React, but also Reason, Elm, Vue, Angular, and most importantly......whatever comes next."
+https://github.com/expo/expo-cli,git,Expo,https://docs.expo.io/,"Expo is a framework and a platform for universal React applications. It is a set of tools and services built around React Native and native platforms that help you develop, build, deploy, and quickly iterate on iOS, Android, and web apps from the same JavaScript/TypeScript codebase."
+https://github.com/parcel-bundler/parcel,git,Parcel,https://parceljs.org/,"Blazing fast, zero configuration web application bundler"
+https://github.com/ember-cli/ember-cli,git,Ember.js CLI,http://ember-cli.com/,The Ember.js command line utility 
+https://github.com/Kitware/CMake,git,CMake,https://cmake.org/,"An open-source, cross-platform family of tools designed to build, test and package software. "

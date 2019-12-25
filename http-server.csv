@@ -1,0 +1,7 @@
+src_url,vcs,name,web_url,description
+https://github.com/netty/netty,git,netty/netty,,
+https://github.com/apache/tomcat,git,apache/tomcat,,
+https://github.com/wildfly/wildfly,git,WildFly,https://wildfly.org/,Application Server
+https://github.com/apache/httpd,git,Apache HTTP Server Project,https://httpd.apache.org/,"An effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards."
+https://github.com/nginx/nginx,git,nginx,http://nginx.org/,"HTTP and reverse proxy server, as well as a mail proxy server. It is known for its high performance, stability, rich feature set, simple configuration, and low resource consumption."
+https://github.com/eclipse/jetty.project,git,Eclipse Jetty,https://www.eclipse.org/jetty/,"A Web server and javax.servlet container, plus support for HTTP/2, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations."

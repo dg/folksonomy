@@ -1,0 +1,3 @@
+src_url,vcs,name,web_url,description
+https://github.com/jupyter-widgets/ipywidgets,git,Jupyter Widgets,https://ipywidgets.readthedocs.io/,Interactive Widgets for the Jupyter Notebook
+https://github.com/ipython/ipyparallel,git,ipyparallel,https://ipyparallel.readthedocs.io/,A Python package for Interactive Parallel Computing and collection of CLI scripts for controlling clusters for Jupyter.

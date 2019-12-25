@@ -1,0 +1,2 @@
+src_url,vcs,name,web_url,description
+https://repo.or.cz/nasm.git,git,The Netwide Assembler (NASM),https://www.nasm.us/,An 80x86 and x86-64 assembler designed for portability and modularity.

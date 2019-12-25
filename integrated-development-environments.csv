@@ -1,0 +1,4 @@
+src_url,vcs,name,web_url,description
+https://github.com/amix/vimrc,git,amix/vimrc,,
+https://github.com/GoogleChrome/lighthouse,git,GoogleChrome/lighthouse,,
+https://github.com/coala/coala,git,coala,https://coala.io/,"A tool that provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use."

@@ -1,0 +1,4 @@
+src_url,vcs,name,web_url,description
+https://github.com/protocolbuffers/protobuf,git,protocolbuffers/protobuf,,
+https://github.com/alibaba/fastjson,git,alibaba/fastjson,,
+https://github.com/nlohmann/json,git,nlohmann/json,,

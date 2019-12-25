@@ -1,0 +1,3 @@
+src_url,vcs,name,web_url,description
+https://github.com/libuv/libuv,git,libuv/libuv,,
+https://github.com/systemd/systemd,git,systemd/systemd,,

@@ -1,0 +1,14 @@
+src_url,vcs,name,web_url,description
+https://github.com/kubernetes/kubernetes,git,Kubernetes (K8s),https://kubernetes.io/,"An open-source system for automating deployment, scaling, and management of containerized applications."
+https://github.com/istio/istio,git,istio/istio,,
+https://github.com/hashicorp/consul,git,hashicorp/consul,,
+https://github.com/kubernetes/minikube,git,kubernetes/minikube,,
+https://github.com/rancher/rancher,git,rancher/rancher,,
+https://github.com/saltstack/salt,git,saltstack/salt,,
+https://github.com/kubernetes/kops,git,kubernetes/kops,,
+https://github.com/alibaba/nacos,git,alibaba/nacos,,
+https://github.com/openshift/origin,git,openshift/origin,,
+https://github.com/rook/rook,git,rook/rook,,
+https://github.com/kubernetes/ingress-nginx,git,kubernetes/ingress-nginx,,
+https://github.com/hashicorp/nomad,git,hashicorp/nomad,,
+https://github.com/docker/swarm,git,Docker Swarm,https://docs.docker.com/swarm/overview/,"A native clustering system for Docker. It turns a pool of Docker hosts into a single, virtual host using an API proxy system."

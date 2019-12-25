@@ -1,0 +1,9 @@
+src_url,vcs,name,web_url,description
+https://github.com/numpy/numpy,git,numpy/numpy,,
+https://github.com/scipy/scipy,git,scipy/scipy,,
+https://github.com/sympy/sympy,git,sympy/sympy,,
+https://github.com/statsmodels/statsmodels,git,statsmodels/statsmodels,,
+https://github.com/scipy-lectures/scipy-lecture-notes,git,Scipy Lecture Notes,http://scipy-lectures.org/,Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques.
+https://github.com/astropy/astropy,git,The Astropy Project,https://www.astropy.org/,Astronomy in Python
+https://github.com/biopython/biopython,git,Biopython,https://biopython.org/,Python Tools for Computational Molecular Biology
+https://github.com/scikit-image/scikit-image,git,scikit-image,https://scikit-image.org/,Image processing in Python

@@ -1,0 +1,20 @@
+src_url,vcs,name,web_url,description
+https://github.com/golang/go,git,Go,https://golang.org/,"Go is an open source programming language that makes it easy to build simple, reliable, and efficient software."
+https://github.com/apple/swift,git,Swift,,
+https://github.com/rust-lang/rust,git,Rust,,
+https://github.com/JetBrains/kotlin,git,Kotlin,,
+https://github.com/JuliaLang/julia,git,Julia,,
+https://github.com/elixir-lang/elixir,git,elixir-lang/elixir,,
+https://github.com/crystal-lang/crystal,git,Crystal,,
+https://github.com/scala/scala,git,Scala,,
+https://github.com/dotnet/roslyn,git,dotNET,,
+https://github.com/nim-lang/Nim,git,Nim,,
+https://github.com/mono/mono,git,mono/mono,,
+https://github.com/clojure/clojure,git,Clojure,,
+https://github.com/erlang/otp,git,Erlang,,
+git://gcc.gnu.org/git/gcc.git,git,The GNU Compiler Collection (GCC),https://gcc.gnu.org/,"The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages (libstdc++,...). GCC was originally written as the compiler for the GNU operating system."
+https://git.savannah.gnu.org/git/smalltalk.git,git,GNU Smalltalk,https://www.gnu.org/software/smalltalk/,"A free implementation of the Smalltalk-80 language which runs on most versions on Unix and, in general, everywhere you can find a POSIX-compliance library. An uncommon feature of it is that it is well-versed to scripting tasks and headless processing."
+http://git.haskell.org/ghc.git,git,The Glasgow Haskell Compiler (GHC),https://www.haskell.org/,"An advanced, purely functional programming language."
+https://github.com/elm/compiler,git,Elm,https://elm-lang.org/,"Compiler for Elm, a functional language for reliable webapps. "
+https://github.com/apache/groovy,git,Apache Groovy,https://groovy-lang.org/,A powerful multi-faceted programming language for the JVM platform.
+https://github.com/llvm/llvm-project,git,LLVM,https://llvm.org/,A collection of modular and reusable compiler and toolchain technologies. 

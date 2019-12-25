@@ -1,0 +1,7 @@
+src_url,vcs,name,web_url,description
+https://github.com/moby/moby,git,moby/moby,,
+https://github.com/portainer/portainer,git,portainer/portainer,,
+https://github.com/goharbor/harbor,git,goharbor/harbor,,
+https://github.com/docker/distribution,git,docker/distribution,,
+https://github.com/containerd/containerd,git,containerd/containerd,,
+https://github.com/docker/docker-ce,git,docker/docker-ce,,

@@ -1,0 +1,2 @@
+src_url,vcs,name,web_url,description
+https://github.com/wxWidgets/wxWidgets,git,wxWidgets,https://www.wxwidgets.org/,"A cross-platform GUI library which has popular language bindings for Python, Perl, Ruby and many other languages, and unlike other cross-platform toolkits, wxWidgets gives applications a truly native look and feel because it uses the platform's native API rather than emulating the GUI."

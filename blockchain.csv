@@ -1,0 +1,24 @@
+src_url,vcs,name,web_url,description
+https://github.com/bitcoin/bitcoin,git,Bitcoin Core,,
+https://github.com/ethereum/go-ethereum,git,ethereum/go-ethereum,,
+https://github.com/ccxt/ccxt,git,ccxt/ccxt,,
+https://github.com/EOSIO/eos,git,EOSIO/eos,,
+https://github.com/hyperledger/fabric,git,Hyperledger Fabric,,
+https://github.com/ethereum/web3.js,git,ethereum/web3.js,,
+https://github.com/trufflesuite/truffle,git,trufflesuite/truffle,,
+https://github.com/ethereum/solidity,git,ethereum/solidity,,
+https://github.com/paritytech/parity-ethereum,git,paritytech/parity-ethereum,,
+https://github.com/lightningnetwork/lnd,git,lightningnetwork/lnd,,
+https://github.com/zcash/zcash,git,zcash/zcash,,
+https://github.com/spesmilo/electrum,git,spesmilo/electrum,,
+https://github.com/ethereum/aleth,git,ethereum/aleth,,
+https://github.com/MetaMask/metamask-extension,git,MetaMask,https://metamask.io/,The MetaMask browser extension enables browsing Ethereum blockchain enabled websites.
+https://github.com/QuantConnect/Lean,git,Lean Engine,https://www.quantconnect.com/lean/,"Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#)"
+https://github.com/bitpay/bitcore,git,bitcore,https://bitcore.io/,Infrastructure to build Bitcoin and blockchain-based applications for the next generation of financial technology.
+https://github.com/ethereum-mining/ethminer,git,Ethminer,,"Ethereum miner with OpenCL, CUDA and stratum support"
+https://github.com/ripple/rippled,git,rippled,https://ripple.com/xrp,Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
+https://github.com/bitpay/copay,git,Copay,http://copay.io/,Copay is a secure Bitcoin and Bitcoin Cash wallet platform for both desktop and mobile devices.
+https://github.com/tendermint/tendermint,git,Tendermint Core,https://tendermint.com/,Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine - written in any programming language - and securely replicates it on many machines.
+https://github.com/bisq-network/bisq,git,Bisq,https://bisq.network/,"An open-source, peer-to-peer application that allows you to buy and sell cryptocurrencies in exchange for national currencies. No registration required."
+https://github.com/jpmorganchase/quorum,git,Quorum,https://www.goquorum.com/,An Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
+https://github.com/bitcoinj/bitcoinj,git,bitcoinj,https://bitcoinj.github.io/,A library for working with the Bitcoin protocol.

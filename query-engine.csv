@@ -1,0 +1,7 @@
+src_url,vcs,name,web_url,description
+https://github.com/metabase/metabase,git,metabase/metabase,,
+https://github.com/hasura/graphql-engine,git,hasura/graphql-engine,,
+https://github.com/pentaho/pentaho-kettle,git,Kettle,https://community.hitachivantara.com/s/pentaho,Pentaho Data Integration ( ETL ) a.k.a Kettle
+https://github.com/apache/kylin,git,Apache Kylin,http://kylin.apache.org/,"Distributed Analytics Engine, contributed by eBay Inc., provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets."
+https://github.com/apache/hive,git,Apache Hive,http://hive.apache.org/,"Data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Built on top of Apache Hadoop."
+https://github.com/prestodb/presto,git,Presto,https://prestodb.io/,A distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes. Presto was designed and written from the ground up for interactive analytics and approaches the speed of commercial data warehouses while scaling to the size of organizations like Facebook.

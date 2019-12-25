@@ -1,0 +1,6 @@
+src_url,vcs,name,web_url,description
+https://github.com/rabbitmq/rabbitmq-server,git,rabbitmq/rabbitmq-server,,
+https://github.com/zeromq/libzmq,git,zeromq/libzmq,,
+https://github.com/apache/pulsar,git,apache/pulsar,,
+https://github.com/apache/rocketmq.git,git,Apache RocketMQ,https://rocketmq.apache.org/,"A distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability."
+https://github.com/apache/camel,git,Apache Camel,https://camel.apache.org/,A powerful open source integration framework based on known Enterprise Integration Patterns with powerful bean integration.

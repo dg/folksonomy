@@ -1,0 +1,4 @@
+src_url,vcs,name,web_url,description
+https://github.com/facebook/docusaurus,git,facebook/docusaurus,,
+https://github.com/readthedocs/readthedocs.org,git,readthedocs/readthedocs.org,,
+https://github.com/sphinx-doc/sphinx,git,Sphinx,http://www.sphinx-doc.org/,A tool that makes it easy to create intelligent and beautiful documentation for Python projects (or other documents consisting of multiple reStructuredText sources)

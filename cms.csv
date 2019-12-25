@@ -1,0 +1,14 @@
+src_url,vcs,name,web_url,description
+https://github.com/TryGhost/Ghost,git,TryGhost/Ghost,,
+https://github.com/strapi/strapi,git,strapi/strapi,,
+https://github.com/WordPress/WordPress,git,WordPress/WordPress,,
+https://github.com/Automattic/wp-calypso,git,Calypso,,
+https://github.com/octobercms/october,git,octobercms/october,,
+https://github.com/wagtail/wagtail,git,wagtail/wagtail,,
+https://github.com/WordPress/gutenberg,git,Gutenberg,,
+https://github.com/wordpress-mobile/WordPress-Android,git,WordPress for Android,https://apps.wordpress.com/mobile/,WordPress for Android
+https://github.com/drupal/drupal,git,Drupal,https://www.drupal.org/,Drupal is an open source content management platform supporting a variety of websites ranging from personal weblogs to large community-driven websites.
+https://github.com/wordpress-mobile/WordPress-iOS,git,WordPress for iOS,http://ios.wordpress.org/,WordPress for iOS
+https://github.com/umbraco/Umbraco-CMS,git,Umbraco,https://umbraco.com/,"The simple, flexible and friendly ASP.NET CMS used by more than 500.000 websites"
+https://github.com/OrchardCMS/OrchardCore,git,Orchard Core,http://www.orchardproject.net/,"Open-source, modular, multi-tenant application framework and CMS for ASP.NET Core"
+https://github.com/joomla/joomla-cms,git,Joomla!,https://www.joomla.org/,"An award-winning content management system (CMS), which enables you to build web sites and powerful online applications."

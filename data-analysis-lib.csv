@@ -1,0 +1,3 @@
+src_url,vcs,name,web_url,description
+https://github.com/pandas-dev/pandas,git,Pandas,,
+https://github.com/tidyverse/dplyr,git,dplyr,https://dplyr.tidyverse.org/,"A grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges"

@@ -1,0 +1,9 @@
+src_url,vcs,name,web_url,description
+https://github.com/microsoft/TypeScript,git,TypeScript,https://www.typescriptlang.org/,TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+https://github.com/babel/babel,git,Babel,,
+https://github.com/facebook/flow,git,facebook/flow,,
+https://github.com/emscripten-core/emscripten,git,emscripten-core/emscripten,,
+https://github.com/jashkenas/coffeescript,git,CoffeeScript,,
+https://github.com/python/mypy,git,python/mypy,,
+https://github.com/google/closure-compiler,git,ClosureCompiler,,
+https://github.com/dart-lang/sdk,git,Dart,https://dart.dev/,"A client-optimized language for fast apps on any platform. The Dart SDK, including the VM, dart2js, core libraries, and more. "

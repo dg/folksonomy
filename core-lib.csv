@@ -1,0 +1,9 @@
+src_url,vcs,name,web_url,description
+https://github.com/lodash/lodash,git,Lodash,,
+https://github.com/google/guava,git,google/guava,,
+https://github.com/ReactiveX/rxjs,git,ReactiveX/rxjs,,
+https://github.com/swoole/swoole-src,git,swoole/swoole-src,,
+https://github.com/facebook/folly,git,facebook/folly,,
+https://github.com/typelevel/cats,git,typelevel/cats,,
+https://github.com/boostorg/boost,git,Boost,https://github.com/boostorg/boost/wiki/Getting-Started,Free peer-reviewed portable C++ source libraries
+https://github.com/kvz/locutus,git,Locutus,http://locutus.io/,A project that seeks to assimilate other languages’ standard libraries to JavaScript.

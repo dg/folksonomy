@@ -1,0 +1,4 @@
+src_url,vcs,name,web_url,description
+https://github.com/dbeaver/dbeaver,git,dbeaver/dbeaver,,
+https://github.com/phpmyadmin/phpmyadmin,git,phpmyadmin/phpmyadmin,,
+https://github.com/cloudera/hue,git,cloudera/hue,,

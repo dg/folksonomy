@@ -1,0 +1,5 @@
+src_url,vcs,name,web_url,description
+https://github.com/antirez/redis,git,antirez/redis,,
+https://github.com/apache/ignite,git,Apache Ignite,https://ignite.apache.org/,"An in-memory computing platform for transactional, analytical, and streaming workloads delivering in-memory speeds at petabyte scale."
+https://github.com/Alluxio/alluxio,git,Alluxio,https://www.alluxio.io/,"A virtual distributed storage system. It bridges the gap between computation frameworks and storage systems, enabling computation applications to connect to numerous storage systems through a common interface."
+https://github.com/hazelcast/hazelcast,git,Hazelcast,https://www.hazelcast.org/,A clustering and highly scalable data distribution platform.

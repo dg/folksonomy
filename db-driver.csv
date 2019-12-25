@@ -1,0 +1,4 @@
+src_url,vcs,name,web_url,description
+https://github.com/mongodb/node-mongodb-native,git,mongodb/node-mongodb-native,,
+https://github.com/mongodb/mongo-java-driver,git,MongoDB Java Driver,https://mongodb.github.io/mongo-java-driver/,The Java driver for MongoDB
+https://github.com/mongodb/mongo-python-driver,git,PyMongo,https://pymongo.readthedocs.io/,PyMongo - the Python driver for MongoDB

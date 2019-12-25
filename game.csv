@@ -1,0 +1,5 @@
+src_url,vcs,name,web_url,description
+https://github.com/godotengine/godot,git,Godot Engine,,
+https://github.com/CleverRaven/Cataclysm-DDA,git,Cataclysm,,
+https://github.com/runelite/runelite,git,runelite/runelite,,
+https://github.com/smogon/pokemon-showdown,git,Pokémon Showdown,https://pokemonshowdown.com,Pokémon battle simulator. 

@@ -1,0 +1,11 @@
+src_url,vcs,name,web_url,description
+https://github.com/sequelize/sequelize,git,sequelize/sequelize,,
+https://github.com/Automattic/mongoose,git,Automattic/mongoose,,
+https://github.com/typeorm/typeorm,git,typeorm/typeorm,,
+https://github.com/prisma/prisma,git,prisma/prisma,,
+https://github.com/aspnet/EntityFrameworkCore,git,aspnet/EntityFrameworkCore,,
+https://github.com/hibernate/hibernate-orm,git,hibernate/hibernate-orm,,
+https://github.com/mongodb/mongoid,git,mongodb/mongoid,,
+https://github.com/sqlalchemy/sqlalchemy,git,SQLAlchemy,https://www.sqlalchemy.org/,Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
+https://github.com/bookshelf/bookshelf,git,Bookshelf,https://bookshelfjs.org/,"A JavaScript ORM for Node.js, built on the Knex SQL query builder. It features both Promise-based and traditional callback interfaces, transaction support, eager/nested-eager relation loading, polymorphic associations, and support for one-to-one, one-to-many, and many-to-many relations."
+https://github.com/Vincit/objection.js,git,Objection.js,https://vincit.github.io/objection.js/,An ORM for Node.js that aims to stay out of your way and make it as easy as possible to use the full power of SQL and the underlying database engine while still making the common stuff easy and enjoyable.

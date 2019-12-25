@@ -1,0 +1,9 @@
+src_url,vcs,name,web_url,description
+https://github.com/facebook/fresco,git,facebook/fresco,,
+https://github.com/wix/react-native-navigation,git,wix/react-native-navigation,,
+https://github.com/FaridSafi/react-native-gifted-chat,git,FaridSafi/react-native-gifted-chat,,
+https://github.com/react-native-community/react-native-camera,git,react-native-community/react-native-camera,,
+https://github.com/TeamNewPipe/NewPipe,git,TeamNewPipe/NewPipe,,
+https://github.com/facebook/facebook-ios-sdk,git,facebook/facebook-ios-sdk,,
+https://github.com/facebook/facebook-android-sdk,git,facebook/facebook-android-sdk,,
+https://github.com/discordjs/discord.js,git,discordjs/discord.js,,

@@ -1,0 +1,12 @@
+src_url,vcs,name,web_url,description
+https://github.com/odoo/odoo,git,odoo/odoo,,
+https://github.com/spree/spree,git,spree/spree,,
+https://github.com/reactioncommerce/reaction,git,reactioncommerce/reaction,,
+https://github.com/magento/magento2,git,Magento,,
+https://github.com/mirumee/saleor,git,mirumee/saleor,,
+https://github.com/woocommerce/woocommerce,git,woocommerce/woocommerce,,
+https://github.com/Sylius/Sylius,git,Sylius/Sylius,,
+https://github.com/PrestaShop/PrestaShop,git,PrestaShop/PrestaShop,,
+https://github.com/nopSolutions/nopCommerce,git,nopSolutions/nopCommerce,,
+https://github.com/activemerchant/active_merchant,git,activemerchant/active_merchant,,
+https://github.com/django-oscar/django-oscar,git,django-oscar/django-oscar,,

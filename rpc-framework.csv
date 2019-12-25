@@ -1,0 +1,6 @@
+src_url,vcs,name,web_url,description
+https://github.com/apache/dubbo,git,apache/dubbo,,
+https://github.com/grpc/grpc,git,gRPC,,
+https://github.com/twitter/finagle,git,twitter/finagle,,
+https://github.com/apache/thrift,git,apache/thrift,,
+https://github.com/grpc/grpc-java,git,grpc/grpc-java,,

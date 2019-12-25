@@ -1,0 +1,4 @@
+src_url,vcs,name,web_url,description
+https://github.com/Activiti/Activiti,git,Activiti/Activiti,,
+https://github.com/kiegroup/drools,git,Drools,http://www.drools.org/,"A rule engine, DMN engine and complex event processing (CEP) engine for Java. "
+https://github.com/flowable/flowable-engine,git,Flowable (V6),https://www.flowable.org/,"A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users."

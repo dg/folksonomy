@@ -1,0 +1,10 @@
+src_url,vcs,name,web_url,description
+https://github.com/git/git,git,git/git,,
+https://github.com/gitlabhq/gitlabhq,git,gitlabhq/gitlabhq,,
+https://github.com/ovity/octotree,git,ovity/octotree,,
+https://github.com/go-gitea/gitea,git,go-gitea/gitea,,
+https://github.com/desktop/desktop,git,desktop/desktop,,
+https://github.com/git-lfs/git-lfs,git,git-lfs/git-lfs,,
+https://github.com/libgit2/libgit2,git,libgit2/libgit2,,
+https://github.com/gitextensions/gitextensions,git,gitextensions/gitextensions,,
+https://github.com/octokit/octokit.rb,git,Octokit,http://octokit.github.io/octokit.rb/,Ruby toolkit for the GitHub API

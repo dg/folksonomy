@@ -1,0 +1,12 @@
+src_url,vcs,name,web_url,description
+https://github.com/discourse/discourse,git,discourse/discourse,,
+https://github.com/RocketChat/Rocket.Chat,git,RocketChat/Rocket.Chat,,
+https://github.com/tootsuite/mastodon,git,tootsuite/mastodon,,
+https://github.com/mattermost/mattermost-server,git,mattermost/mattermost-server,,
+https://github.com/obsproject/obs-studio,git,obsproject/obs-studio,,
+https://github.com/zulip/zulip,git,zulip/zulip,,
+https://github.com/NodeBB/NodeBB,git,NodeBB/NodeBB,,
+https://github.com/jitsi/jitsi-meet,git,jitsi/jitsi-meet,,
+https://github.com/igniterealtime/Openfire,git,Openfire,https://igniterealtime.org/projects/openfire/,"A real time collaboration (RTC) server. It uses the only widely adopted open protocol for instant messaging, XMPP (also called Jabber)."
+https://github.com/roundcube/roundcubemail,git,Roundcube,https://roundcube.net/,Webmail suite
+https://github.com/bigbluebutton/bigbluebutton,git,BigBlueButton,http://www.bigbluebutton.org/,Complete open source web conferencing system.

@@ -1,0 +1,23 @@
+src_url,vcs,name,web_url,description
+https://github.com/facebook/react,git,React,https://reactjs.org/,"A declarative, efficient, and flexible JavaScript library for building user interfaces. "
+https://github.com/facebook/react-native,git,React Native,https://facebook.github.io/react-native,A framework for building native apps with React.
+https://github.com/flutter/flutter,git,Flutter,https://flutter.dev/,Flutter makes it easy and fast to build beautiful mobile apps. 
+https://github.com/electron/electron,git,Electron,https://electronjs.org/,"Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+https://github.com/angular/angular,git,angular/angular,,
+https://github.com/ionic-team/ionic,git,ionic-team/ionic,,
+https://github.com/sveltejs/svelte,git,sveltejs/svelte,,
+https://github.com/NativeScript/NativeScript,git,NativeScript/NativeScript,,
+https://github.com/apache/incubator-weex,git,apache/incubator-weex,,
+https://github.com/quasarframework/quasar,git,quasarframework/quasar,,
+https://github.com/flutter/plugins,git,flutter/plugins,,
+https://github.com/electron-userland/electron-builder,git,electron-userland/electron-builder,,
+https://github.com/expo/expo,git,expo/expo,,
+https://github.com/invertase/react-native-firebase,git,invertase/react-native-firebase,,
+https://github.com/reactiveui/ReactiveUI,git,reactiveui/ReactiveUI,,
+https://github.com/flutter/samples,git,flutter/samples,,
+https://github.com/xamarin/Xamarin.Forms,git,xamarin/Xamarin.Forms,,
+https://github.com/flutter/engine,git,flutter/engine,,
+https://github.com/SAP/openui5,git,OpenUI5,https://openui5.org/,"The open source version of SAPUI5, a JavaScript UI library maintained by SAP."
+https://github.com/preactjs/preact,git,Preact,https://preactjs.com/,Fast 3kB alternative to React with the same modern API.
+https://github.com/alibaba/rax,git,Rax,https://rax.js.org/,"The fastest way to build universal application. Rax is a lightweight, high performance, easy to use solution for front-end development. With Rax you can write your application once, and run it in multi-end. It avoids repetitive work, let you focus on product logic, and improve development efficiency."
+https://github.com/appcelerator/titanium_mobile,git,Titanium,http://appcelerator.com/,"Native iOS-, Android- and Windows Apps with JavaScript "

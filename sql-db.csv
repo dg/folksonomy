@@ -1,0 +1,8 @@
+src_url,vcs,name,web_url,description
+https://github.com/pingcap/tidb,git,pingcap/tidb,,
+https://github.com/cockroachdb/cockroach,git,cockroachdb/cockroach,,
+https://github.com/apache/incubator-shardingsphere,git,apache/incubator-shardingsphere,,
+https://github.com/vitessio/vitess,git,vitessio/vitess,,
+https://github.com/postgres/postgres,git,postgres/postgres,,
+https://github.com/greenplum-db/gpdb,git,greenplum-db/gpdb,,
+https://github.com/MariaDB/server,git,MariaDB,https://mariadb.com/,A community developed fork of MySQL server.

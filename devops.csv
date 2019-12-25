@@ -1,0 +1,11 @@
+src_url,vcs,name,web_url,description
+https://github.com/hashicorp/vagrant,git,hashicorp/vagrant,,
+https://github.com/aws/aws-cli,git,aws/aws-cli,,
+https://github.com/googleapis/google-api-nodejs-client,git,googleapis/google-api-nodejs-client,,
+https://github.com/ansible/ansible-examples,git,ansible/ansible-examples,,
+https://github.com/Azure/azure-quickstart-templates,git,Azure/azure-quickstart-templates,,
+https://github.com/aws/aws-sdk-js,git,aws/aws-sdk-js,,
+https://github.com/aws/aws-sdk-go,git,aws/aws-sdk-go,,
+https://github.com/aws/aws-sdk-php,git,aws/aws-sdk-php,,
+https://github.com/GoogleCloudPlatform/training-data-analyst,git,training-data-analyst,http://cloud.google.com/training,Labs and demos for courses for GCP Training
+https://github.com/googleapis/google-cloud-python,git,Google Cloud Python Client,https://github.com/googleapis/google-cloud-python#google-cloud-python-client,Google Cloud Client Library for Python

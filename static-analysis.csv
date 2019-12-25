@@ -1,0 +1,13 @@
+src_url,vcs,name,web_url,description
+https://github.com/prettier/prettier,git,prettier/prettier,,
+https://github.com/eslint/eslint,git,ESLint,,
+https://github.com/facebook/infer,git,facebook/infer,,
+https://github.com/rubocop-hq/rubocop,git,rubocop-hq/rubocop,,
+https://github.com/FriendsOfPHP/PHP-CS-Fixer,git,FriendsOfPHP/PHP-CS-Fixer,,
+https://github.com/jshint/jshint,git,jshint/jshint,,
+https://github.com/github/linguist,git,github/linguist,,
+https://github.com/squizlabs/PHP_CodeSniffer,git,squizlabs/PHP_CodeSniffer,,
+https://github.com/palantir/tslint,git,TSLint,,
+https://github.com/checkstyle/checkstyle,git,Checkstyle,,
+https://github.com/SonarSource/sonarqube,git,SonarSource/sonarqube,,
+https://github.com/pmd/pmd,git,PMD,https://pmd.github.io/,An extensible multilanguage static code analyzer. 

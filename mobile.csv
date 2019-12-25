@@ -1,0 +1,22 @@
+src_url,vcs,name,web_url,description
+https://github.com/Alamofire/Alamofire,git,Alamofire/Alamofire,,
+https://github.com/bumptech/glide,git,bumptech/glide,,
+https://github.com/airbnb/lottie-android,git,airbnb/lottie-android,,
+https://github.com/Blankj/AndroidUtilCode,git,Blankj/AndroidUtilCode,,
+https://github.com/zxing/zxing,git,zxing/zxing,,
+https://github.com/nolimits4web/swiper,git,nolimits4web/swiper,,
+https://github.com/HeroTransitions/Hero,git,HeroTransitions/Hero,,
+https://github.com/framework7io/framework7,git,framework7io/framework7,,
+https://github.com/android/plaid,git,android/plaid,,
+https://github.com/hackiftekhar/IQKeyboardManager,git,hackiftekhar/IQKeyboardManager,,
+https://github.com/CoderMJLee/MJRefresh,git,CoderMJLee/MJRefresh,,
+https://github.com/Tencent/QMUI_Android,git,Tencent/QMUI_Android,,
+https://github.com/android/ndk-samples,git,android/ndk-samples,,
+https://github.com/flutterchina/flutter-in-action,git,flutterchina/flutter-in-action,,
+https://github.com/firebase/quickstart-android,git,firebase/quickstart-android,,
+https://github.com/nisrulz/flutter-examples,git,nisrulz/flutter-examples,,
+https://github.com/xamarin/xamarin-forms-samples,git,xamarin/xamarin-forms-samples,,
+https://github.com/owncloud/android,git,ownCloud,https://owncloud.org/,"With over 50 million users worldwide, ownCloud is the market-leading open source software for cloud-based collaboration platforms. As an alternative to Dropbox, OneDrive and Google Drive, ownCloud offers real data security and privacy for you and your data."
+https://github.com/MvvmCross/MvvmCross,git,MvvmCross,http://mvvmcross.com/,"The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
+https://github.com/ioscreator/ioscreator,git,iOS Creator tutorials,https://www.ioscreator.com/,Source Code of iOS tutorials at ioscreator.com
+https://github.com/ionic-team/ionic-conference-app,git,Ionic Conference App,,A conference app built with Ionic to demonstrate Ionic

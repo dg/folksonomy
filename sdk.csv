@@ -1,0 +1,2 @@
+src_url,vcs,name,web_url,description
+https://github.com/dotnet/sdk,git,.NET SDK,https://dotnet.microsoft.com/,"Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI."

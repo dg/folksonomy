@@ -1,0 +1,8 @@
+src_url,vcs,name,web_url,description
+https://github.com/ansible/ansible,git,Ansible,,
+https://github.com/hashicorp/terraform,git,hashicorp/terraform,,
+https://github.com/hashicorp/packer,git,hashicorp/packer,,
+https://github.com/ansible/awx,git,ansible/awx,,
+https://github.com/chef/chef,git,chef/chef,,
+https://github.com/puppetlabs/puppet,git,puppetlabs/puppet,,
+https://github.com/kubernetes/autoscaler,git,Kubernetes Autoscaler,,Autoscaling components for Kubernetes

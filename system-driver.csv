@@ -1,0 +1,6 @@
+src_url,vcs,name,web_url,description
+https://github.com/arendst/Tasmota,git,arendst/Tasmota,,
+https://github.com/qmk/qmk_firmware,git,QMK Firmware,,
+https://github.com/zfsonlinux/zfs,git,zfsonlinux/zfs,,
+https://github.com/tmk/tmk_keyboard,git,tmk_keyboard,,Keyboard firmwares for Atmel AVR and Cortex-M
+https://github.com/microsoft/Windows-driver-samples,git,Windows driver samples,https://docs.microsoft.com/en-us/windows-hardware/drivers/,Driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK).

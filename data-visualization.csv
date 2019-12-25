@@ -1,0 +1,13 @@
+src_url,vcs,name,web_url,description
+https://github.com/chartjs/Chart.js,git,chartjs/Chart.js,,
+https://github.com/apache/incubator-echarts,git,apache/incubator-echarts,,
+https://github.com/mermaid-js/mermaid,git,mermaid-js/mermaid,,
+https://github.com/bokeh/bokeh,git,bokeh/bokeh,,
+https://github.com/plotly/plotly.js,git,plotly/plotly.js,,
+https://github.com/matplotlib/matplotlib,git,matplotlib/matplotlib,,
+https://github.com/plotly/dash,git,plotly/dash,,
+https://github.com/highcharts/highcharts,git,highcharts/highcharts,,
+https://github.com/plotly/plotly.py,git,plotly/plotly.py,,
+https://github.com/tidyverse/ggplot2,git,tidyverse/ggplot2,,
+https://github.com/d3/d3,git,D3 (Data-Driven Documents),https://d3js.org/,"D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation."
+https://github.com/recharts/recharts,git,Recharts,http://recharts.org/,A composable charting library built with React and D3

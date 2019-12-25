@@ -1,0 +1,4 @@
+src_url,vcs,name,web_url,description
+https://github.com/fastlane/fastlane,git,fastlane/fastlane,,
+https://github.com/jenkinsci/jenkins,git,jenkinsci/jenkins,,
+https://github.com/buildbot/buildbot,git,buildbot/buildbot,,

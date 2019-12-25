@@ -1,0 +1,4 @@
+src_url,vcs,name,web_url,description
+https://github.com/apache/incubator-superset,git,apache/incubator-superset,,
+https://github.com/getredash/redash,git,getredash/redash,,
+https://github.com/apache/zeppelin,git,apache/zeppelin,,

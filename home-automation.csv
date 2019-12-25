@@ -1,0 +1,3 @@
+src_url,vcs,name,web_url,description
+https://github.com/home-assistant/home-assistant,git,Home Assistant,,
+https://github.com/domoticz/domoticz,git,Domoticz,https://www.domoticz.com/,A Home Automation system design to control various devices and receive input from various sensors. 

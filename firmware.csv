@@ -1,0 +1,2 @@
+src_url,vcs,name,web_url,description
+https://github.com/raspberrypi/firmware,git,Raspberry Pi firmware,,"Pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware."

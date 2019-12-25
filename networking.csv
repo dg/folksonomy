@@ -1,0 +1,17 @@
+src_url,vcs,name,web_url,description
+https://github.com/containous/traefik,git,containous/traefik,,
+https://github.com/certbot/certbot,git,certbot/certbot,,
+https://github.com/v2ray/v2ray-core,git,v2ray/v2ray-core,,
+https://github.com/Kong/kong,git,Kong/kong,,
+https://github.com/openssl/openssl,git,openssl/openssl,,
+https://github.com/envoyproxy/envoy,git,Envoy,,
+https://github.com/openwrt/openwrt,git,OpenWrt,,
+https://github.com/secdev/scapy,git,secdev/scapy,,
+https://github.com/OpenVPN/openvpn,git,OpenVPN/openvpn,,
+https://github.com/FreeRDP/FreeRDP,git,FreeRDP/FreeRDP,,
+https://github.com/warmcat/libwebsockets,git,Libwebsockets (LWS),https://libwebsockets.org/,"A flexible, lightweight pure C library for implementing modern network protocols easily with a tiny footprint, using a nonblocking event loop."
+https://github.com/pfsense/pfsense,git,pfSense,https://www.pfsense.org/,"A free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality."
+https://github.com/openwrt/luci,git,LuCI,,OpenWrt Configuration Interface
+https://github.com/openvswitch/ovs,git,Open vSwitch,,A multilayer software switch.
+https://github.com/openssh/openssh-portable,git,Portable OpenSSH,,"A port of OpenBSD's OpenSSH to most Unix-like operating systems, including Linux, OS X and Cygwin. Portable OpenSSH polyfills OpenBSD APIs that are not available elsewhere, adds sshd sandboxing for more operating systems and includes support for OS-native authentication and auditing (e.g. using PAM)."
+https://github.com/openstack/nova,git,OpenStack Compute (nova),https://docs.openstack.org/nova/latest/,"A cloud computing fabric controller, supporting a wide variety of compute technologies, including: libvirt (KVM, Xen, LXC and more), Hyper-V, VMware, XenServer, OpenStack Ironic and PowerVM."

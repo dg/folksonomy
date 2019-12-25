@@ -1,0 +1,17 @@
+src_url,vcs,name,web_url,description
+https://github.com/danielmiessler/SecLists,git,danielmiessler/SecLists,,
+https://github.com/rapid7/metasploit-framework,git,Metasploit Framework,,
+https://github.com/mitmproxy/mitmproxy,git,mitmproxy/mitmproxy,,
+https://github.com/sqlmapproject/sqlmap,git,sqlmapproject/sqlmap,,
+https://github.com/hashicorp/vault,git,Vault,,
+https://github.com/OWASP/CheatSheetSeries,git,OWASP/CheatSheetSeries,,
+https://github.com/apereo/cas,git,apereo/cas,,
+https://github.com/zaproxy/zaproxy,git,zaproxy/zaproxy,,
+https://github.com/IdentityServer/IdentityServer4,git,IdentityServer/IdentityServer4,,
+https://github.com/keycloak/keycloak,git,Keycloak,,
+https://github.com/spring-projects/spring-security,git,spring-projects/spring-security,,
+https://github.com/WebGoat/WebGoat,git,WebGoat,https://webgoat.github.io/WebGoat/,WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
+https://github.com/andresriancho/w3af,git,w3af,http://w3af.org/,Web Application Attack and Audit Framework. An open source web application security scanner which helps developers and penetration testers identify and exploit vulnerabilities in their web applications.
+https://github.com/bkimminich/juice-shop,git,OWASP Juice Shop,http://owasp-juice.shop,OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+https://github.com/EFForg/https-everywhere,git,HTTPS Everywhere,https://eff.org/https-everywhere,"HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure."
+https://github.com/apache/shiro,git,Apache Shiro,http://shiro.apache.org/,"A powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management"

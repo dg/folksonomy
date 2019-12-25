@@ -1,0 +1,18 @@
+src_url,vcs,name,web_url,description
+https://github.com/vuejs/vue,git,Vue.js,https://vuejs.org/,"A progressive, incrementally-adoptable JavaScript framework for building UI on the web. "
+https://github.com/jquery/jquery,git,jquery/jquery,,
+https://github.com/alvarotrigo/fullPage.js,git,alvarotrigo/fullPage.js,,
+https://github.com/videojs/video.js,git,videojs/video.js,,
+https://github.com/Leaflet/Leaflet,git,Leaflet/Leaflet,,
+https://github.com/Modernizr/Modernizr,git,Modernizr/Modernizr,,
+https://github.com/vuejs/vuex,git,vuejs/vuex,,
+https://github.com/emberjs/ember.js,git,emberjs/ember.js,,
+https://github.com/fabricjs/fabric.js,git,fabricjs/fabric.js,,
+https://github.com/riot/riot,git,riot/riot,,
+https://github.com/jsdom/jsdom,git,jsdom/jsdom,,
+https://github.com/pouchdb/pouchdb,git,pouchdb/pouchdb,,
+https://github.com/jquery/jquery-ui,git,jquery/jquery-ui,,
+https://github.com/vuematerial/vue-material,git,vuematerial/vue-material,,
+https://github.com/telerik/kendo-ui-core,git,Kendo UI,https://www.telerik.com/kendo-ui,"An HTML5, jQuery-based widget library for building modern web apps."
+https://github.com/dart-lang/angular,git,AngularDart,https://pub.dev/packages/angular,"AngularDart is a productive web application framework that powers some of Google's most critical applications. It's built on Dart and used extensively by Google AdWords, AdSense, Fiber, and many more projects."
+https://github.com/jashkenas/backbone,git,Backbone.js,https://backbonejs.org/,"Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface."

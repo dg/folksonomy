@@ -1,0 +1,5 @@
+src_url,vcs,name,web_url,description
+https://github.com/dolphin-emu/dolphin,git,dolphin-emu/dolphin,,
+https://github.com/mamedev/mame,git,mamedev/mame,,
+https://github.com/libretro/RetroArch,git,libretro/RetroArch,,
+https://github.com/qemu/qemu,git,QEMU,http://www.qemu.org/,A generic and open source machine & userspace emulator and virtualizer.

@@ -1,0 +1,4 @@
+src_url,vcs,name,web_url,description
+https://github.com/ApolloAuto/apollo,git,ApolloAuto/apollo,,
+https://github.com/commaai/openpilot,git,commaai/openpilot,,
+https://github.com/carla-simulator/carla,git,CARLA Simulator,http://carla.org/,Open-source simulator for autonomous driving research.

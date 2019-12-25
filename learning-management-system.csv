@@ -1,0 +1,4 @@
+src_url,vcs,name,web_url,description
+https://github.com/edx/edx-platform,git,edx/edx-platform,,
+https://github.com/instructure/canvas-lms,git,Canvas,https://github.com/instructure/canvas-lms/wiki,"a well-established (circa 2010, used in many colleges, universities, and K-12 schools), open-source learning management system (LMS)"
+https://github.com/moodle/moodle,git,Moodle,https://moodle.org/,"A learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments."

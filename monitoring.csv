@@ -1,0 +1,15 @@
+src_url,vcs,name,web_url,description
+https://github.com/netdata/netdata,git,netdata/netdata,,
+https://github.com/grafana/grafana,git,grafana/grafana,,
+https://github.com/getsentry/sentry,git,getsentry/sentry,,
+https://github.com/osquery/osquery,git,osquery/osquery,,
+https://github.com/nicolargo/glances,git,nicolargo/glances,,
+https://github.com/apache/skywalking,git,apache/skywalking,,
+https://github.com/elastic/logstash,git,elastic/logstash,,
+https://github.com/jaegertracing/jaeger,git,jaegertracing/jaeger,,
+https://github.com/naver/pinpoint,git,naver/pinpoint,,
+https://github.com/elastic/beats,git,elastic/beats,,
+https://github.com/influxdata/telegraf,git,influxdata/telegraf,,
+https://github.com/dropwizard/metrics,git,dropwizard/metrics,,
+https://github.com/collectd/collectd,git,collectd,https://collectd.org/,"A daemon which collects system and application performance metrics periodically and provides mechanisms to store the values in a variety of ways, for example in RRD files."
+https://github.com/prometheus/alertmanager,git,Prometheus Alertmanager,,"The Alertmanager handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integrations such as email, PagerDuty, or OpsGenie. It also takes care of silencing and inhibition of alerts."

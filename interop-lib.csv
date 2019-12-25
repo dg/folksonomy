@@ -1,0 +1,3 @@
+src_url,vcs,name,web_url,description
+https://github.com/DefinitelyTyped/DefinitelyTyped,git,DefinitelyTyped,,
+https://github.com/java-native-access/jna,git,java-native-access/jna,,

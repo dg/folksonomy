@@ -1,0 +1,3 @@
+src_url,vcs,name,web_url,description
+https://github.com/graphhopper/graphhopper,git,GraphHopper,https://www.graphhopper.com/,An open source route planning library and server using OpenStreetMap.
+https://github.com/qgis/QGIS,git,QGIS,http://qgis.org/,"A free, open source, cross platform (lin/win/mac) geographical information system (GIS)"

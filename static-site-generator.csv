@@ -1,0 +1,7 @@
+src_url,vcs,name,web_url,description
+https://github.com/zeit/next.js,git,zeit/next.js,,
+https://github.com/gatsbyjs/gatsby,git,Gatsby,,
+https://github.com/gohugoio/hugo,git,gohugoio/hugo,,
+https://github.com/jekyll/jekyll,git,jekyll/jekyll,,
+https://github.com/nuxt/nuxt.js,git,nuxt/nuxt.js,,
+https://github.com/gatsbyjs/gatsby-starter-blog,git,Gatsby's blog starter,,Gatsby's blog starter

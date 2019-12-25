@@ -1,0 +1,6 @@
+src_url,vcs,name,web_url,description
+https://github.com/apache/airflow,git,apache/airflow,,
+https://github.com/celery/celery,git,celery/celery,,
+https://github.com/dask/dask,git,dask/dask,,
+https://github.com/apache/incubator-dolphinscheduler,git,Apache DolphinScheduler,https://dolphinscheduler.apache.org/,"A distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing."
+https://github.com/azkaban/azkaban,git,Azkaban,https://azkaban.github.io/,A batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy to use web user interface to maintain and track your workflows.
