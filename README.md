@@ -20,6 +20,8 @@ The table columns are:
 - `web_url` - URL for the project's website.
 - `description` - user-friendly description of the open-source project, appropriate for the context of this tag.
 
-Please send us a pull request to create a new tag (file) or add projects (rows) to existing files. They help build nicer analytics at www.code.dance and other similar projects.
+Each directory in this repository represents a grouping of tags. Thus OSS projects can be organized into a taxonomy similar to how people usually organize files in nested directories. Each directory will contain a single README.md file that will describe what that tag means.
+
+Please send us a pull request to create a new tag (file or directory) or add projects (rows) to existing files. Let's create a better taxonomy of open-source projects to serve discovery and analysis at resources like www.code.dance and beyond.
 
 Happy coding!
