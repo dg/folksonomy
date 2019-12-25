@@ -1,0 +1,2 @@
+src_url,vcs,name,web_url,description
+https://github.com/apache/activemq,git,Apache ActiveMQ,https://activemq.apache.org/,"The most popular open source, multi-protocol, Java-based messaging server."
