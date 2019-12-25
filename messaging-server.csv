@@ -2,3 +2,4 @@ src_url,vcs,name,web_url,description
 https://github.com/apache/activemq,git,Apache ActiveMQ Classic,https://activemq.apache.org/components/classic/,"The most popular open source, multi-protocol, Java-based messaging server."
 https://github.com/apache/activemq-artemis,git,Apache ActiveMQ Artemis,https://activemq.apache.org/components/artemis/,"The next generation messaging broker that will become ActiveMQ 6."
 https://github.com/rabbitmq/rabbitmq-server,git,RabbitMQ,https://www.rabbitmq.com/,"With tens of thousands of users, RabbitMQ is one of the most popular open source message brokers. From T-Mobile to Runtastic, RabbitMQ is used worldwide at small startups and large enterprises."
+https://github.com/apache/kafka,git,Apache Kafka,https://kafka.apache.org/,"Publish and subscribe to streams of records, similar to a message queue or enterprise messaging system."
