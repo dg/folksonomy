@@ -8,10 +8,13 @@ Every day a script runs and pulls from this repository redefining how OSS projec
 
 # How it works
 
-Every file in this repository (except for the README.md and LICENSE files) represents a tag (category) that groups several open-source software projects.
-The filename corresponds to the tag name.
+Every directory in this repository represents a tag that groups several open-source software projects.
+A directory (tag) can have subdirectories (subtags).
+Thus OSS projects can be organized into a taxonomy similar to how people organize files in nested directories. 
 
-The format of files is CSV, so each file is effectively a table.
+Each directory may contain a CSV file that contains OSS projects data for the corresponding tag, and a `README.md` file that includes a human-friendly description.
+
+Each CSV file is effectively a table.
 The table columns are:
 
 - `src_url` - URL for source code repository.
@@ -20,8 +23,6 @@ The table columns are:
 - `web_url` - URL for the project's website.
 - `description` - user-friendly description of the open-source project, appropriate for the context of this tag.
 
-Each directory in this repository represents a grouping of tags. Thus OSS projects can be organized into a taxonomy similar to how people usually organize files in nested directories. Each directory will contain a single README.md file that will describe what that tag means.
-
-Please send us a pull request to create a new tag (file or directory) or add projects (rows) to existing files. Let's create a better taxonomy of open-source projects to serve discovery and analysis at resources like www.code.dance and beyond.
+Please send us a pull request to create a new tag, add an OSS project, or fix an inaccuracy. Let's create a better taxonomy for open-source projects. 
 
 Happy coding!
