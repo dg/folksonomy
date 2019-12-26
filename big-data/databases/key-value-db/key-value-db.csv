@@ -1,5 +1,4 @@
 src_url,vcs,name,web_url,description
 https://github.com/etcd-io/etcd,git,etcd-io/etcd,,
 https://github.com/facebook/rocksdb,git,facebook/rocksdb,,
-https://github.com/apache/zookeeper,git,apache/zookeeper,,
 https://github.com/tikv/tikv,git,tikv/tikv,,
