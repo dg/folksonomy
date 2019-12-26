@@ -1,5 +1,9 @@
 src_url,vcs,name,web_url,description
 https://github.com/apache/activemq,git,Apache ActiveMQ Classic,https://activemq.apache.org/components/classic/,"The most popular open source, multi-protocol, Java-based messaging server."
 https://github.com/apache/activemq-artemis,git,Apache ActiveMQ Artemis,https://activemq.apache.org/components/artemis/,"The next generation messaging broker that will become ActiveMQ 6."
-https://github.com/rabbitmq/rabbitmq-server,git,RabbitMQ,https://www.rabbitmq.com/,"With tens of thousands of users, RabbitMQ is one of the most popular open source message brokers. From T-Mobile to Runtastic, RabbitMQ is used worldwide at small startups and large enterprises."
 https://github.com/apache/kafka,git,Apache Kafka,https://kafka.apache.org/,"Publish and subscribe to streams of records, similar to a message queue or enterprise messaging system."
+https://github.com/apache/rocketmq,git,Apache RocketMQ,https://rocketmq.apache.org/,"A distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability."
+https://github.com/rabbitmq/rabbitmq-server,git,RabbitMQ,https://www.rabbitmq.com/,"With tens of thousands of users, RabbitMQ is one of the most popular open source message brokers. From T-Mobile to Runtastic, RabbitMQ is used worldwide at small startups and large enterprises."
+https://github.com/zeromq/libzmq,git,ZeroMQ,https://zeromq.org/,"ZeroMQ is a high-performance asynchronous messaging library, aimed at use in distributed or concurrent applications. It provides a message queue, but unlike message-oriented middleware, a ZeroMQ system can run without a dedicated message broker."
+https://github.com/apache/pulsar,git,Apache Pulsar,https://pulsar.apache.org/,"Apache Pulsar is an open-source distributed pub-sub messaging system originally created at Yahoo and now part of the Apache Software Foundation."
+https://github.com/apache/camel,git,Apache Camel,https://camel.apache.org/,"A powerful open source integration framework based on known Enterprise Integration Patterns with powerful bean integration."
