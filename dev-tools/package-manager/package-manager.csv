@@ -1,13 +1,13 @@
 src_url,vcs,name,web_url,description
-https://github.com/yarnpkg/yarn,git,yarnpkg/yarn,,
-https://github.com/composer/composer,git,composer/composer,,
-https://github.com/Homebrew/brew,git,Homebrew/brew,,
-https://github.com/helm/helm,git,helm/helm,,
-https://github.com/microsoft/vcpkg,git,microsoft/vcpkg,,
-https://github.com/pypa/pip,git,pypa/pip,,
-https://github.com/rust-lang/cargo,git,rust-lang/cargo,,
-https://github.com/bundler/bundler,git,bundler/bundler,,
-https://github.com/rubygems/rubygems,git,RubyGems,https://rubygems.org/,Library packaging and distribution for Ruby. 
-https://github.com/npm/cli,git,npm,https://www.npmjs.com/,A JavaScript package manager
-https://github.com/dart-lang/pub-dev,git,pub.dev,https://pub.dev/,"The Dart package repository, written in Dart"
-https://github.com/bower/bower,git,Bower,https://bower.io/,A package manager for the web
+https://github.com/yarnpkg/yarn,git,Yarn,https://yarnpkg.com/,"Yarn is a package manager for your code. It allows you to use and share (e.g. JavaScript) code with other developers from around the world."
+https://github.com/composer/composer,git,Composer,https://getcomposer.org/,"A Dependency Manager for PHP."
+https://github.com/Homebrew/brew,git,Homebrew,https://brew.sh/,"The missing package manager for macOS (or Linux)."
+https://github.com/helm/helm,git,Helm,https://helm.sh/,"The Kubernetes Package Manager."
+https://github.com/microsoft/vcpkg,git,Vcpkg,https://github.com/microsoft/vcpkg/blob/master/docs/index.md,"C++ Library Manager for Windows, Linux, and MacOS."
+https://github.com/pypa/pip,git,pip,https://pip.pypa.io/,"The Python package installer."
+https://github.com/rust-lang/cargo,git,Cargo,https://doc.rust-lang.org/cargo,"The Rust package manager."
+https://github.com/bundler/bundler,git,Bundler,https://bundler.io/,"Manage your Ruby application's gem dependencies."
+https://github.com/rubygems/rubygems,git,RubyGems,https://rubygems.org/,"Library packaging and distribution for Ruby."
+https://github.com/npm/cli,git,npm,https://www.npmjs.com/,"A JavaScript package manager."
+https://github.com/dart-lang/pub-dev,git,pub.dev,https://pub.dev/,"The Dart package repository, written in Dart."
+https://github.com/bower/bower,git,Bower,https://bower.io/,"A package manager for the web."
