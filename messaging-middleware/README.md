@@ -1,0 +1,1 @@
+Message-oriented middleware (MOM) is a software infrastructure supporting sending and receiving messages in distributed systems. The message-based model, coupled with the mediation of the provider, makes it possible to create a network of loosely coupled components, which work asynchronously.
