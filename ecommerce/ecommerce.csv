@@ -1,5 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/odoo/odoo,git,odoo/odoo,,
 https://github.com/spree/spree,git,spree/spree,,
 https://github.com/reactioncommerce/reaction,git,reactioncommerce/reaction,,
 https://github.com/magento/magento2,git,Magento,,
