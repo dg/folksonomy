@@ -1,7 +1,7 @@
 src_url,vcs,name,web_url,description
 https://github.com/django/django,git,Django,https://www.djangoproject.com/,"The Web framework for perfectionists with deadlines."
 https://github.com/rails/rails,git,Rails,https://rubyonrails.org/,"Rails is a web application development framework written in the Ruby programming language."
-https://github.com/spring-projects/spring-boot,git,Spring Boot,https://spring.io/projects/spring-boot,"Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run". It takes an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need minimal Spring configuration."
+https://github.com/spring-projects/spring-boot,git,Spring Boot,https://spring.io/projects/spring-boot,"Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can ""just run"". It takes an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need minimal Spring configuration."
 https://github.com/meteor/meteor,git,Meteor,https://www.meteor.com/,"Meteor is an ultra-simple environment for building modern web applications."
 https://github.com/spring-projects/spring-framework,git,Spring Framework,https://spring.io/projects/spring-framework,"The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any deployment platform."
 https://github.com/symfony/symfony,git,Symfony,https://symfony.com/,"The leading PHP framework to create websites and web applications. Built on top of the Symfony Components."
