@@ -1,26 +1,26 @@
 src_url,vcs,name,web_url,description
-https://github.com/django/django,git,django/django,,
-https://github.com/rails/rails,git,Rails,,
-https://github.com/spring-projects/spring-boot,git,spring-projects/spring-boot,,
-https://github.com/meteor/meteor,git,meteor/meteor,,
-https://github.com/spring-projects/spring-framework,git,spring-projects/spring-framework,,
-https://github.com/symfony/symfony,git,Symfony,,
-https://github.com/nestjs/nest,git,nestjs/nest,,
-https://github.com/laravel/framework,git,Laravel,,
-https://github.com/vapor/vapor,git,vapor/vapor,,
-https://github.com/parse-community/parse-server,git,parse-community/parse-server,,
-https://github.com/kataras/iris,git,kataras/iris,,
-https://github.com/encode/django-rest-framework,git,encode/django-rest-framework,,
-https://github.com/jhipster/generator-jhipster,git,jhipster/generator-jhipster,,
-https://github.com/aspnet/AspNetCore,git,aspnet/AspNetCore,,
-https://github.com/eggjs/egg,git,eggjs/egg,,
-https://github.com/yiisoft/yii2,git,yiisoft/yii2,,
-https://github.com/playframework/playframework,git,playframework/playframework,,
-https://github.com/apollographql/apollo-server,git,apollographql/apollo-server,,
-https://github.com/cakephp/cakephp,git,cakephp/cakephp,,
-https://github.com/VulcanJS/Vulcan,git,VulcanJS/Vulcan,,
-https://github.com/aspnetboilerplate/aspnetboilerplate,git,aspnetboilerplate/aspnetboilerplate,,
-https://github.com/dropwizard/dropwizard,git,dropwizard/dropwizard,,
-https://github.com/yiisoft/yii,git,yiisoft/yii,,
+https://github.com/django/django,git,Django,https://www.djangoproject.com/,"The Web framework for perfectionists with deadlines."
+https://github.com/rails/rails,git,Rails,https://rubyonrails.org/,"Rails is a web application development framework written in the Ruby programming language."
+https://github.com/spring-projects/spring-boot,git,Spring Boot,https://spring.io/projects/spring-boot,"Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run". It takes an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need minimal Spring configuration."
+https://github.com/meteor/meteor,git,Meteor,https://www.meteor.com/,"Meteor is an ultra-simple environment for building modern web applications."
+https://github.com/spring-projects/spring-framework,git,Spring Framework,https://spring.io/projects/spring-framework,"The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any deployment platform."
+https://github.com/symfony/symfony,git,Symfony,https://symfony.com/,"The leading PHP framework to create websites and web applications. Built on top of the Symfony Components."
+https://github.com/nestjs/nest,git,NestJS,https://nestjs.com/,"A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8)."
+https://github.com/laravel/framework,git,Laravel,https://laravel.com/,"The PHP Framework for Web Artisans."
+https://github.com/vapor/vapor,git,Vapor,https://vapor.codes/,"Vapor is a web framework for Swift. It provides a beautifully expressive and easy to use foundation for your next website, API, or cloud project."
+https://github.com/parse-community/parse-server,git,Parse Server,https://parseplatform.org/,"Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js."
+https://github.com/kataras/iris,git,Iris,https://iris-go.com/,"The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more."
+https://github.com/encode/django-rest-framework,git,Django REST framework,https://www.django-rest-framework.org/,"Django REST framework is a powerful and flexible toolkit for building Web APIs."
+https://github.com/jhipster/generator-jhipster,git,JHipster,https://www.jhipster.tech/,"Open Source application platform for creating Spring Boot + Angular/React projects in seconds!"
+https://github.com/aspnet/AspNetCore,git,ASP.NET Core,https://asp.net/,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+https://github.com/eggjs/egg,git,Egg,https://eggjs.org/,"Born to build better enterprise frameworks and apps with Node.js & Koa"
+https://github.com/yiisoft/yii2,git,Yii 2,http://www.yiiframework.com/,"Yii 2: The Fast, Secure and Professional PHP Framework."
+https://github.com/playframework/playframework,git,Play Framework,http://www.playframework.com/,"The High Velocity Web Framework For Java and Scala"
+https://github.com/apollographql/apollo-server,git,Apollo Server,https://www.apollographql.com/docs/apollo-server/,"GraphQL server for Express, Connect, Hapi, Koa and more."
+https://github.com/cakephp/cakephp,git,CakePHP,http://cakephp.org/,"CakePHP: The Rapid Development Framework for PHP."
+https://github.com/VulcanJS/Vulcan,git,VulcanJS/Vulcan,http://vulcanjs.org/,"A toolkit to quickly build apps with React, GraphQL & Meteor."
+https://github.com/aspnetboilerplate/aspnetboilerplate,git,ASP.NET Boilerplate,https://aspnetboilerplate.com/,"ASP.NET Boilerplate is a general purpose application framework specially designed for new modern web applications. It uses already familiar tools and implements best practices around them to provide you a SOLID development experience."
+https://github.com/dropwizard/dropwizard,git,Dropwizard,https://www.dropwizard.io/,"A damn simple library for building production-ready RESTful web services."
+https://github.com/yiisoft/yii,git,Yii 1.1.x,http://www.yiiframework.com/,"An older version of Yii - fast, secure and professional PHP framework."
 https://github.com/pallets/flask,git,Flask,https://palletsprojects.com/p/flask/,"Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks."
 https://github.com/grails/grails-core,git,Grails,https://grails.org/,A powerful Groovy-based web application framework for the JVM built on top of Spring Boot
