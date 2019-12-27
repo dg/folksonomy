@@ -1,20 +1,20 @@
 src_url,vcs,name,web_url,description
-https://github.com/golang/go,git,Go,https://golang.org/,"Go is an open source programming language that makes it easy to build simple, reliable, and efficient software."
-https://github.com/apple/swift,git,Swift,,
-https://github.com/rust-lang/rust,git,Rust,,
-https://github.com/JetBrains/kotlin,git,Kotlin,,
-https://github.com/JuliaLang/julia,git,Julia,,
-https://github.com/elixir-lang/elixir,git,elixir-lang/elixir,,
-https://github.com/crystal-lang/crystal,git,Crystal,,
-https://github.com/scala/scala,git,Scala,,
-https://github.com/dotnet/roslyn,git,dotNET,,
-https://github.com/nim-lang/Nim,git,Nim,,
-https://github.com/mono/mono,git,mono/mono,,
-https://github.com/clojure/clojure,git,Clojure,,
-https://github.com/erlang/otp,git,Erlang,,
-git://gcc.gnu.org/git/gcc.git,git,The GNU Compiler Collection (GCC),https://gcc.gnu.org/,"The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages (libstdc++,...). GCC was originally written as the compiler for the GNU operating system."
+https://github.com/golang/go,git,Go,https://golang.org/,"Go is an open source programming language from Google. It makes it easy to build simple, reliable, and efficient software."
+https://github.com/apple/swift,git,Swift,https://swift.org/,"Swift is a high-performance system programming language from Apple. It has a clean and modern syntax, offers seamless access to existing C and Objective-C code and frameworks, and is memory safe by default."
+https://github.com/rust-lang/rust,git,Rust,https://www.rust-lang.org/,"Rust is a multi-paradigm system programming language that originated at Mozilla Research. It is syntactically similar to C++ but provides better memory safety while maintaining high performance."
+https://github.com/JetBrains/kotlin,git,Kotlin,https://kotlinlang.org/,"Kotlin is a cross-platform, statically typed, general-purpose programming language from JetBrains. It has full interoperability with Java, runs on JVM, and has type inference. I can also compile to JavaScript or native code (via LLVM)."
+https://github.com/JuliaLang/julia,git,Julia,https://julialang.org/,"Julia is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well-suited for high-performance numerical analysis and computational science."
+https://github.com/elixir-lang/elixir,git,Elixir,https://elixir-lang.org/,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications. Elixir leverages the Erlang VM, known for running low-latency, distributed and fault-tolerant systems, while also being successfully used in web development and the embedded software domain."
+https://github.com/crystal-lang/crystal,git,Crystal,https://crystal-lang.org/,"Crystal is a general-purpose, object-oriented programming language with syntax inspired by Ruby. It is a compiled language with static type-checking and offers type inference."
+https://github.com/scala/scala,git,Scala,http://www.scala-lang.org/,"Scala combines object-oriented and functional programming in one concise, high-level language. Scala's static types help avoid bugs in complex applications, and its JVM and JavaScript runtimes let you build high-performance systems with easy access to vast ecosystems of libraries."
+https://github.com/dotnet/roslyn,git,Roslyn,https://docs.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/,"Roslyn is the .NET Compiler Platform SDK. It provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio."
+https://github.com/nim-lang/Nim,git,Nim,https://nim-lang.org/,"Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority)."
+https://github.com/mono/mono,git,Mono,http://www.mono-project.com/,"Mono is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime."
+https://github.com/clojure/clojure,git,Clojure,https://clojure.org/,"Clojure is a dynamic, general-purpose functional programming language, inspired by Lisp and interoperable with Java. It is a compiled language that combines the interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming."
+https://github.com/erlang/otp,git,Erlang,http://erlang.org/,"Erlang is a programming language and runtime system for building massively scalable soft real-time systems with requirements on high availability. OTP is a set of Erlang libraries, which consists of the Erlang runtime system and ready-to-use components mainly written in Erlang."
+git://gcc.gnu.org/git/gcc.git,git,GCC,https://gcc.gnu.org/,"The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages (libstdc++,...). GCC was originally written as the compiler for the GNU operating system."
 https://git.savannah.gnu.org/git/smalltalk.git,git,GNU Smalltalk,https://www.gnu.org/software/smalltalk/,"A free implementation of the Smalltalk-80 language which runs on most versions on Unix and, in general, everywhere you can find a POSIX-compliance library. An uncommon feature of it is that it is well-versed to scripting tasks and headless processing."
-http://git.haskell.org/ghc.git,git,The Glasgow Haskell Compiler (GHC),https://www.haskell.org/,"An advanced, purely functional programming language."
+http://git.haskell.org/ghc.git,git,GHC,https://www.haskell.org/,"The Glasgow Haskell Compiler. Haskell is an advanced, purely functional programming language."
 https://github.com/elm/compiler,git,Elm,https://elm-lang.org/,"Compiler for Elm, a functional language for reliable webapps. "
-https://github.com/apache/groovy,git,Apache Groovy,https://groovy-lang.org/,A powerful multi-faceted programming language for the JVM platform.
-https://github.com/llvm/llvm-project,git,LLVM,https://llvm.org/,A collection of modular and reusable compiler and toolchain technologies. 
+https://github.com/apache/groovy,git,Apache Groovy,https://groovy-lang.org/,"A powerful multi-faceted programming language for the JVM platform."
+https://github.com/llvm/llvm-project,git,LLVM,https://llvm.org/,"A collection of modular and reusable compiler and toolchain technologies." 
