@@ -18,7 +18,7 @@ https://github.com/yiisoft/yii2,git,Yii 2,http://www.yiiframework.com/,"Yii 2: T
 https://github.com/playframework/playframework,git,Play Framework,http://www.playframework.com/,"The High Velocity Web Framework For Java and Scala"
 https://github.com/apollographql/apollo-server,git,Apollo Server,https://www.apollographql.com/docs/apollo-server/,"GraphQL server for Express, Connect, Hapi, Koa and more."
 https://github.com/cakephp/cakephp,git,CakePHP,http://cakephp.org/,"CakePHP: The Rapid Development Framework for PHP."
-https://github.com/VulcanJS/Vulcan,git,VulcanJS/Vulcan,http://vulcanjs.org/,"A toolkit to quickly build apps with React, GraphQL & Meteor."
+https://github.com/VulcanJS/Vulcan,git,Vulcan,http://vulcanjs.org/,"A toolkit to quickly build apps with React, GraphQL & Meteor."
 https://github.com/aspnetboilerplate/aspnetboilerplate,git,ASP.NET Boilerplate,https://aspnetboilerplate.com/,"ASP.NET Boilerplate is a general purpose application framework specially designed for new modern web applications. It uses already familiar tools and implements best practices around them to provide you a SOLID development experience."
 https://github.com/dropwizard/dropwizard,git,Dropwizard,https://www.dropwizard.io/,"A damn simple library for building production-ready RESTful web services."
 https://github.com/yiisoft/yii,git,Yii 1.1.x,http://www.yiiframework.com/,"An older version of Yii - fast, secure and professional PHP framework."
