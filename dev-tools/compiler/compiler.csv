@@ -17,4 +17,4 @@ https://git.savannah.gnu.org/git/smalltalk.git,git,GNU Smalltalk,https://www.gnu
 http://git.haskell.org/ghc.git,git,GHC,https://www.haskell.org/,"The Glasgow Haskell Compiler. Haskell is an advanced, purely functional programming language."
 https://github.com/elm/compiler,git,Elm,https://elm-lang.org/,"Compiler for Elm, a functional language for reliable webapps. "
 https://github.com/apache/groovy,git,Apache Groovy,https://groovy-lang.org/,"A powerful multi-faceted programming language for the JVM platform."
-https://github.com/llvm/llvm-project,git,LLVM,https://llvm.org/,"A collection of modular and reusable compiler and toolchain technologies." 
+https://github.com/llvm/llvm-project,git,LLVM,https://llvm.org/,"A collection of modular and reusable compiler and toolchain technologies."
