@@ -1,3 +1,3 @@
 src_url,vcs,name,web_url,description
-https://github.com/FFmpeg/FFmpeg,git,FFmpeg/FFmpeg,,
+https://github.com/FFmpeg/FFmpeg,git,FFmpeg,https://ffmpeg.org/,"FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata."
 https://github.com/Dash-Industry-Forum/dash.js,git,dash.js,http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html,An initiative of the DASH Industry Forum to establish a production quality framework for building video and audio players that play back MPEG-DASH content using client-side JavaScript libraries leveraging the Media Source Extensions API set as defined by the W3C.
