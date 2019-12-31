@@ -1,15 +1,15 @@
 src_url,vcs,name,web_url,description
-https://github.com/transloadit/uppy,git,transloadit/uppy,,
-https://github.com/mobxjs/mobx,git,mobxjs/mobx,,
-https://github.com/facebook/relay,git,facebook/relay,,
-https://github.com/apollographql/apollo-client,git,apollographql/apollo-client,,
-https://github.com/react-dnd/react-dnd,git,react-dnd/react-dnd,,
-https://github.com/aws-amplify/amplify-js,git,aws-amplify/amplify-js,,
-https://github.com/facebook/flux,git,Flux,https://facebook.github.io/flux/,Application Architecture for Building User Interfaces
-https://github.com/reflux/refluxjs,git,RefluxJS,,A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux.
+https://github.com/mobxjs/mobx,git,MobX,http://mobx.js.org/,"MobX is a battle tested, simple and scalable state management library transparently applying functional reactive programming (TFRP)."
+https://github.com/facebook/relay,git,Relay,https://relay.dev/,"The production-ready GraphQL client for building data-driven React applications."
+https://github.com/apollographql/apollo-client,git,Apollo Client,https://apollographql.com/client,"Apollo Client is a complete state management library for JavaScript apps. Simply write a GraphQL query, and Apollo Client will take care of requesting and caching your data, as well as updating your UI."
+https://github.com/react-dnd/react-dnd,git,React DnD,http://react-dnd.github.io/react-dnd,"React DnD is a set of React utilities to help you build complex drag and drop interfaces while keeping your components decoupled."
+https://github.com/aws-amplify/amplify-js,git,AWS Amplify,https://aws-amplify.github.io/,"A comprehensive library for building sophisticated cloud-powered apps."
+https://github.com/facebook/flux,git,Flux,https://facebook.github.io/flux/,"Flux is the application architecture that Facebook uses for building client-side web applications."
+https://github.com/reflux/refluxjs,git,RefluxJS,,"A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux."
 https://github.com/acdlite/flummox,git,Flummox,http://acdlite.github.io/flummox,"Minimal, isomorphic Flux."
-https://github.com/yahoo/fluxible,git,Fluxible,https://fluxible.io/,A pluggable container for universal Flux applications.
-https://github.com/reduxjs/redux,git,Redux,https://redux.js.org/,Predictable state container for JavaScript apps
+https://github.com/yahoo/fluxible,git,Fluxible,https://fluxible.io/,"A pluggable container for universal Flux applications."
+https://github.com/reduxjs/redux,git,Redux,https://redux.js.org/,"Predictable state container for JavaScript apps."
 https://github.com/infernojs/inferno,git,Inferno,https://infernojs.org/,"An insanely fast, React-like library for building high-performance user interfaces on both the client and server."
 https://github.com/ReactTraining/react-router,git,React Router,https://reacttraining.com/react-router/,"A collection of navigational components that compose declaratively with your application. Whether you want to have bookmarkable URLs for your web app or a composable way to navigate in React Native, React Router works wherever React is rendering."
-https://github.com/emberjs/data,git,EmberJS Data,,A data persistence library for Ember.js.
+https://github.com/emberjs/data,git,EmberJS Data,,"A data persistence library for Ember.js."
+https://github.com/transloadit/uppy,git,Uppy,https://uppy.io/,"Uppy is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader."
