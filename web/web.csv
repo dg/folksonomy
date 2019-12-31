@@ -1,0 +1,5 @@
+https://github.com/mdn/browser-compat-data,git,Compatibility data for Web technologies,https://developer.mozilla.org/,"Compatibility data for Web technologies as displayed on MDN."
+https://github.com/google/WebFundamentals,git,Web Fundamentals,https://developers.google.com/web/fundamentals,"An effort to showcase best practices and tools for modern Web Development."
+https://github.com/Fyrd/caniuse,git,Can I use,https://caniuse.com/,"Raw browser/feature support data from caniuse.com."
+https://github.com/web-platform-tests/wpt,git,web-platform-tests,https://web-platform-tests.org/,"Test suites for Web platform specs — including WHATWG, W3C, and others."
+https://github.com/whatwg/html,git,HTML Standard,https://html.spec.whatwg.org/multipage/,"HTML Living Standard."
