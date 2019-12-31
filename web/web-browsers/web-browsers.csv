@@ -1,9 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/servo/servo,git,servo/servo,,
-https://github.com/google/WebFundamentals,git,google/WebFundamentals,,
-https://github.com/mozilla-mobile/firefox-ios,git,mozilla-mobile/firefox-ios,,
-https://github.com/chromium/chromium,git,Chromium,,
-https://github.com/Fyrd/caniuse,git,Fyrd/caniuse,,
-https://github.com/web-platform-tests/wpt,git,web-platform-tests,https://web-platform-tests.org/,"Test suites for Web platform specs — including WHATWG, W3C, and others"
-https://github.com/whatwg/html,git,HTML Standard,https://html.spec.whatwg.org/multipage/,HTML Standard
-https://github.com/mdn/browser-compat-data,git,Compatibility data for Web technologies,,Compatibility data for Web technologies as displayed on MDN
+https://github.com/servo/servo,git,Servo,https://servo.org/,"Servo is a modern, high-performance browser engine designed for both application and embedded use."
+https://github.com/mozilla-mobile/firefox-ios,git,Firefox for iOS,https://apps.apple.com/app/firefox-web-browser/id989804926,"Firefox for iOS."
+https://github.com/chromium/chromium,git,Chromium,https://www.chromium.org/,"The Chromium projects include Chromium and Chromium OS, the open-source projects behind the Google Chrome browser and Google Chrome OS, respectively."
