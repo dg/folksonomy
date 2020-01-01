@@ -1,3 +1,4 @@
+src_url,vcs,name,web_url,description
 https://github.com/mdn/browser-compat-data,git,Compatibility data for Web technologies,https://developer.mozilla.org/,"Compatibility data for Web technologies as displayed on MDN."
 https://github.com/google/WebFundamentals,git,Web Fundamentals,https://developers.google.com/web/fundamentals,"An effort to showcase best practices and tools for modern Web Development."
 https://github.com/Fyrd/caniuse,git,Can I use,https://caniuse.com/,"Raw browser/feature support data from caniuse.com."
