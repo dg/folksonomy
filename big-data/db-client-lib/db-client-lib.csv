@@ -1,6 +1,6 @@
 src_url,vcs,name,web_url,description
-https://github.com/redisson/redisson,git,redisson/redisson,,
-https://github.com/StackExchange/StackExchange.Redis,git,StackExchange/StackExchange.Redis,,
-https://github.com/spring-projects/spring-data-elasticsearch,git,Spring Data Elasticsearch,https://spring.io/projects/spring-data-elasticsearch/,The Spring Data Elasticsearch project provides integration with the Elasticsearch search engine.
+https://github.com/redisson/redisson,git,Redisson,https://redisson.pro/,"Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC..."
+https://github.com/StackExchange/StackExchange.Redis,git,StackExchange.Redis,https://stackexchange.github.io/StackExchange.Redis/,"StackExchange.Redis is a high performance general purpose redis client for .NET languages (C#, etc.). It is the logical successor to BookSleeve, and is the client developed-by (and used-by) Stack Exchange for busy sites like Stack Overflow."
+https://github.com/spring-projects/spring-data-elasticsearch,git,Spring Data Elasticsearch,https://spring.io/projects/spring-data-elasticsearch/,"The Spring Data Elasticsearch project provides integration with the Elasticsearch search engine."
 https://github.com/gajus/slonik,git,Slonik,,"A PostgreSQL client with strict types, detailed logging and assertions."
-https://github.com/elastic/elasticsearch-net,git,Elasticsearch.Net,https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/index.html,Elasticsearch.Net and NEST: the .NET clients
+https://github.com/elastic/elasticsearch-net,git,Elasticsearch.Net,https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/index.html,"Elasticsearch.Net and NEST: the .NET clients."
