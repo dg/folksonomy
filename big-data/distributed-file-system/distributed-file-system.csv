@@ -1,2 +1,2 @@
 src_url,vcs,name,web_url,description
-https://github.com/chrislusf/seaweedfs,git,chrislusf/seaweedfs,,
+https://github.com/chrislusf/seaweedfs,git,SeaweedFS,,"SeaweedFS is a simple and highly scalable distributed file system, to store and serve billions of files fast! SeaweedFS implements an object store with O(1) disk seek, transparent cloud integration, and an optional Filer with POSIX interface, supporting S3 API, Rack-Aware Erasure Coding for warm storage, FUSE mount, Hadoop compatible, WebDAV."
