@@ -1,4 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/elastic/elasticsearch,git,Elasticsearch,,
-https://github.com/elastic/kibana,git,Kibana,,
+https://github.com/elastic/elasticsearch,git,Elasticsearch,https://www.elastic.co/products/elasticsearch,"Open Source, Distributed, RESTful Search Engine."
+https://github.com/elastic/kibana,git,Kibana,https://www.elastic.co/products/kibana,"Kibana is your window into the Elastic Stack. Specifically, it's a browser-based analytics and search dashboard for Elasticsearch."
 https://github.com/apache/lucene-solr,git,Apache Solr,https://lucene.apache.org/solr/,"Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™."
