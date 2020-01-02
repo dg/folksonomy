@@ -1,4 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/etcd-io/etcd,git,etcd-io/etcd,,
-https://github.com/facebook/rocksdb,git,facebook/rocksdb,,
-https://github.com/tikv/tikv,git,tikv/tikv,,
+https://github.com/etcd-io/etcd,git,etcd,https://etcd.io/,"Distributed reliable key-value store for the most critical data of a distributed system."
+https://github.com/facebook/rocksdb,git,RocksDB,http://rocksdb.org/,"RocksDB is a Persistent Key-Value Store for Flash and RAM Storage. It is developed and maintained by Facebook Database Engineering Team and builts on earlier work on LevelDB by Sanjay Ghemawat and Jeff Dean."
+https://github.com/tikv/tikv,git,TiKV,https://tikv.org/,"TiKV is an open-source, distributed, and transactional key-value database. Unlike other traditional NoSQL systems, TiKV not only provides classical key-value APIs, but also transactional APIs with ACID compliance. Built in Rust and powered by Raft, TiKV was originally created to complement TiDB, a distributed HTAP database compatible with the MySQL protocol."
