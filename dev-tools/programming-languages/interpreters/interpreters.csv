@@ -1,8 +1,5 @@
 src_url,vcs,name,web_url,description
-https://github.com/python/cpython,git,Python,,
-https://github.com/php/php-src,git,PHP,,
-https://github.com/ruby/ruby,git,Ruby,,
-https://github.com/facebook/hhvm,git,facebook/hhvm,,
-https://github.com/ipython/ipython,git,ipython/ipython,,
-https://github.com/cython/cython,git,Cython,,
-https://git.savannah.gnu.org/git/mit-scheme.git,git,MIT/GNU Scheme,https://www.gnu.org/software/mit-scheme/,"An implementation of the Scheme programming language, providing an interpreter, compiler, source-code debugger, integrated Emacs-like editor, and a large runtime library. MIT/GNU Scheme is best suited to programming large applications with a rapid development cycle."
+https://github.com/python/cpython,git,Python,https://www.python.org/,"Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms."
+https://github.com/php/php-src,git,PHP,https://www.php.net/,"PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world."
+https://github.com/ruby/ruby,git,Ruby,https://www.ruby-lang.org/,"Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write."
+https://git.savannah.gnu.org/git/mit-scheme.git,git,Scheme,https://www.gnu.org/software/mit-scheme/,"An implementation of the Scheme programming language, providing an interpreter, compiler, source-code debugger, integrated Emacs-like editor, and a large runtime library. MIT/GNU Scheme is best suited to programming large applications with a rapid development cycle."
