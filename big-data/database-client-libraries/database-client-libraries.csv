@@ -4,3 +4,4 @@ https://github.com/StackExchange/StackExchange.Redis,git,StackExchange.Redis,htt
 https://github.com/spring-projects/spring-data-elasticsearch,git,Spring Data Elasticsearch,https://spring.io/projects/spring-data-elasticsearch/,"The Spring Data Elasticsearch project provides integration with the Elasticsearch search engine."
 https://github.com/gajus/slonik,git,Slonik,,"A PostgreSQL client with strict types, detailed logging and assertions."
 https://github.com/elastic/elasticsearch-net,git,Elasticsearch.Net,https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/index.html,"Elasticsearch.Net and NEST: the .NET clients."
+https://github.com/doctrine/dbal,git,Doctrine DBAL,https://www.doctrine-project.org/projects/dbal.html,"Powerful PHP database abstraction layer (DBAL) with many features for database schema introspection and management."
