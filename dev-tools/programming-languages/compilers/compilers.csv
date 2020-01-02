@@ -18,3 +18,4 @@ http://git.haskell.org/ghc.git,git,GHC,https://www.haskell.org/,"The Glasgow Has
 https://github.com/elm/compiler,git,Elm,https://elm-lang.org/,"Compiler for Elm, a functional language for reliable webapps. "
 https://github.com/apache/groovy,git,Apache Groovy,https://groovy-lang.org/,"A powerful multi-faceted programming language for the JVM platform."
 https://github.com/llvm/llvm-project,git,LLVM,https://llvm.org/,"A collection of modular and reusable compiler and toolchain technologies."
+https://github.com/cython/cython,git,Cython,https://cython.org/,"Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself."
