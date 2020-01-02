@@ -1,4 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/rethinkdb/rethinkdb,git,rethinkdb/rethinkdb,,
-https://github.com/mongodb/mongo,git,mongodb/mongo,,
+https://github.com/rethinkdb/rethinkdb,git,RethinkDB,https://rethinkdb.com/,"RethinkDB is the first open-source scalable database built for realtime applications. It exposes a new database access model, in which the developer can tell the database to continuously push updated query results to applications without polling for changes. RethinkDB allows developers to build scalable realtime apps in a fraction of the time with less effort."
+https://github.com/mongodb/mongo,git,MongoDB,https://www.mongodb.com/,"MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era."
 https://github.com/apache/couchdb,git,CouchDB,http://docs.couchdb.org/,"CouchDB is a database that completely embraces the web. Store your data with JSON documents. Access your documents with your web browser, via HTTP. Query, combine, and transform your documents with JavaScript. CouchDB works well with modern web and mobile apps. You can distribute your data, efficiently using CouchDB’s incremental replication. CouchDB supports master-master setups with automatic conflict detection."
