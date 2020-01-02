@@ -27,41 +27,39 @@ https://github.com/nltk/nltk,git,NLTK,http://nltk.org/,"NLTK -- the Natural Lang
 https://github.com/facebookresearch/faiss,git,Faiss,,"Faiss is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy. Some of the most useful algorithms are implemented on the GPU. It is developed by Facebook AI Research."
 https://github.com/botpress/botpress,git,Botpress,https://botpress.io/,"The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants."
 https://github.com/kubeflow/kubeflow,git,Kubeflow,http://kubeflow.org/,"Kubeflow is a Cloud Native platform for machine learning based on Google’s internal machine learning pipelines."
-https://github.com/kaldi-asr/kaldi,git,kaldi-asr/kaldi,,
-https://github.com/allenai/allennlp,git,allenai/allennlp,,
-https://github.com/Unity-Technologies/ml-agents,git,Unity-Technologies/ml-agents,,
-https://github.com/slundberg/shap,git,slundberg/shap,,
-https://github.com/RasaHQ/rasa,git,RasaHQ/rasa,,
-https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python,git,rlabbe/Kalman-and-Bayesian-Filters-in-Python,,
-https://github.com/stanfordnlp/CoreNLP,git,stanfordnlp/CoreNLP,,
-https://github.com/dotnet/machinelearning,git,dotnet/machinelearning,,
-https://github.com/keras-team/autokeras,git,keras-team/autokeras,,
-https://github.com/machinelearningmindset/machine-learning-course,git,machinelearningmindset/machine-learning-course,,
-https://github.com/google-research/google-research,git,google-research/google-research,,
-https://github.com/deepmind/lab,git,deepmind/lab,,
-https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book,git,dragen1860/Deep-Learning-with-TensorFlow-book,,
-https://github.com/Angel-ML/angel,git,Angel-ML/angel,,
-https://github.com/chainer/chainer,git,chainer/chainer,,
-https://github.com/facebookresearch/ParlAI,git,facebookresearch/ParlAI,,
-https://github.com/opencv/opencv_contrib,git,opencv/opencv_contrib,,
-https://github.com/apache/incubator-tvm,git,apache/incubator-tvm,,
-https://github.com/pymc-devs/pymc3,git,pymc-devs/pymc3,,
-https://github.com/tensorflow/tfjs-models,git,Pretrained models for TensorFlow.js,,
-https://github.com/h2oai/h2o-3,git,h2oai/h2o-3,,
-https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects,git,rhiever/Data-Analysis-and-Machine-Learning-Projects,,
-https://github.com/Uberi/speech_recognition,git,Uberi/speech_recognition,,
-https://github.com/tensorflow/tensorboard,git,TensorFlow's Visualization Toolkit,,
-https://github.com/OpenMined/PySyft,git,OpenMined/PySyft,,
-https://github.com/lazyprogrammer/machine_learning_examples,git,lazyprogrammer/machine_learning_examples,,
-https://github.com/tensorflow/tfjs-examples,git,tensorflow/tfjs-examples,,
-https://github.com/dragen1860/TensorFlow-2.x-Tutorials,git,dragen1860/TensorFlow-2.x-Tutorials,,
-https://github.com/MycroftAI/mycroft-core,git,MycroftAI/mycroft-core,,
-https://github.com/pytorch/tutorials,git,pytorch/tutorials,,
-https://github.com/microsoft/BotBuilder-Samples,git,Microsoft Bot Framework V4 SDK Samples,,Samples for the released version of the Microsoft Bot Framework V4 SDK for .NET and JS.
-https://github.com/fastai/course-v3,git,course-v3,https://course.fast.ai/,The 3rd edition of course.fast.ai
-https://github.com/udacity/deep-learning-v2-pytorch,git,Deep Learning (PyTorch),https://www.udacity.com/course/deep-learning-nanodegree--nd101,Projects and exercises for the latest Deep Learning ND program
-https://github.com/fizyr/keras-retinanet,git,Keras RetinaNet,,Keras implementation of RetinaNet object detection.
-https://github.com/awslabs/amazon-sagemaker-examples,git,Amazon SageMaker Examples,,"Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker"
-https://github.com/ildoonet/tf-pose-estimation,git,tf-pose-estimation,,Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.
-https://github.com/mlpack/mlpack,git,mlpack,https://www.mlpack.org/,A scalable C++ machine learning library
-https://github.com/openMVG/openMVG,git,OpenMVG (open Multiple View Geometry),http://imagine.enpc.fr/~moulonp/openMVG/,A library for computer-vision scientists and especially targeted to the Multiple View Geometry community. It is designed to provide easy access to the classical problem solvers in Multiple View Geometry and solve them accurately.
+https://github.com/kaldi-asr/kaldi,git,Kaldi,http://kaldi-asr.org/,"Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers."
+https://github.com/allenai/allennlp,git,AllenNLP,http://www.allennlp.org/,"An open-source NLP research library, built on PyTorch."
+https://github.com/Unity-Technologies/ml-agents,git,Unity-Technologies/ml-agents,https://unity3d.com/machine-learning/,"The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source Unity plugin that enables games and simulations to serve as environments for training intelligent agents. Agents can be trained using reinforcement learning, imitation learning, neuroevolution, or other machine learning methods through a simple-to-use Python API."
+https://github.com/slundberg/shap,git,SHAP,,"A game theoretic approach to explain the output of any machine learning model."
+https://github.com/RasaHQ/rasa,git,Rasa,https://rasa.com/docs/,"Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants."
+https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python,git,Kalman and Bayesian filters in Python,,"Introductory text for Kalman and Bayesian filters. All code is written in Python, and the book itself is written using Juptyer Notebook so that you can run and modify the code in your browser. What better way to learn?"
+https://github.com/stanfordnlp/CoreNLP,git,Stanford CoreNLP,http://stanfordnlp.github.io/CoreNLP/,"Stanford CoreNLP: A Java suite of core NLP tools."
+https://github.com/dotnet/machinelearning,git,ML.NET,https://dot.net/ml,"ML.NET is an open source and cross-platform machine learning framework for .NET."
+https://github.com/keras-team/autokeras,git,AutoKeras,http://autokeras.com/,"AutoKeras is an open source software library for automated machine learning (AutoML). It is developed by DATA Lab at Texas A&M University and community contributors. The ultimate goal of AutoML is to provide easily accessible deep learning tools to domain experts with limited data science or machine learning background."
+https://github.com/machinelearningmindset/machine-learning-course,git,A Machine Learning Course with Python,https://machine-learning-course.readthedocs.io/en/latest/,"Machine Learning Course with Python. Refer to the course page for step-by-step explanations."
+https://github.com/google-research/google-research,git,Google AI Research,https://ai.google/research,"Google AI Research."
+https://github.com/deepmind/lab,git,DeepMind Lab,,"A customisable 3D platform for agent-based AI research."
+https://github.com/Angel-ML/angel,git,Angel,,"This project Angel is a high-performance distributed machine learning platform based on the philosophy of Parameter Server. It is tuned for performance with big data from Tencent and has a wide range of applicability and stability, demonstrating increasing advantage in handling higher dimension model. Angel is jointly developed by Tencent and Peking University, taking account of both high availability in industry and innovation in academia."
+https://github.com/chainer/chainer,git,Chainer,https://chainer.org/,"Chainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (a.k.a. dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference."
+https://github.com/facebookresearch/ParlAI,git,ParlAI,https://parl.ai/,"A framework for training and evaluating AI models on a variety of openly available dialogue datasets."
+https://github.com/opencv/opencv_contrib,git,OpenCV contrib,,"Repository for OpenCV's extra modules."
+https://github.com/apache/incubator-tvm,git,Apache TVM,https://tvm.ai/,"Apache TVM (incubating) is a compiler stack for deep learning systems. It is designed to close the gap between the productivity-focused deep learning frameworks, and the performance- and efficiency-focused hardware backends. TVM works with deep learning frameworks to provide end to end compilation to different backends."
+https://github.com/pymc-devs/pymc3,git,PyMC3,https://docs.pymc.io/,"PyMC3 is a Python package for Bayesian statistical modeling and Probabilistic Machine Learning focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms. Its flexibility and extensibility make it applicable to a large suite of problems."
+https://github.com/tensorflow/tfjs-models,git,TensorFlow.js models,https://js.tensorflow.org/,Pretrained models for TensorFlow.js
+https://github.com/h2oai/h2o-3,git,H2O,http://h2o.ai/,"Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc."
+https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects,git,ML with Randy Olson,http://www.randalolson.com/blog/,"Randy Olson's data analysis and machine learning projects."
+https://github.com/Uberi/speech_recognition,git,SpeechRecognition,https://pypi.python.org/pypi/SpeechRecognition/,"Speech recognition module for Python, supporting several engines and APIs, online and offline."
+https://github.com/tensorflow/tensorboard,git,TensorBoard,,"TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs."
+https://github.com/OpenMined/PySyft,git,PySyft,,"PySyft is a Python library for secure and private Deep Learning. PySyft decouples private data from model training, using Federated Learning, Differential Privacy, and Multi-Party Computation (MPC) within the main Deep Learning frameworks like PyTorch and TensorFlow."
+https://github.com/lazyprogrammer/machine_learning_examples,git,ML with Lazy Programmer,https://lazyprogrammer.me/,"A collection of machine learning examples and tutorials from Lazy Programmer."
+https://github.com/tensorflow/tfjs-examples,git,TensorFlow.js examples,https://js.tensorflow.org/,"Examples built with TensorFlow.js."
+https://github.com/MycroftAI/mycroft-core,git,Mycroft,https://mycroft.ai/,"Mycroft is a hackable open source voice assistant."
+https://github.com/pytorch/tutorials,git,PyTorch tutorials,https://pytorch.org/tutorials/,
+https://github.com/microsoft/BotBuilder-Samples,git,Bot Framework examples,https://github.com/Microsoft/botframework,"Samples for the released version of the Microsoft Bot Framework V4 SDK for .NET and JS."
+https://github.com/fastai/course-v3,git,course-v3,https://course.fast.ai/,"The 3rd edition of course.fast.ai."
+https://github.com/udacity/deep-learning-v2-pytorch,git,Deep Learning (PyTorch),https://www.udacity.com/course/deep-learning-nanodegree--nd101,"Projects and exercises for the latest Udacity Deep Learning NanoDegree program."
+https://github.com/fizyr/keras-retinanet,git,Keras RetinaNet,,"Keras implementation of RetinaNet object detection."
+https://github.com/awslabs/amazon-sagemaker-examples,git,Amazon SageMaker Examples,,"Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker."
+https://github.com/ildoonet/tf-pose-estimation,git,tf-pose-estimation,,"Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference."
+https://github.com/mlpack/mlpack,git,mlpack,https://www.mlpack.org/,"A scalable C++ machine learning library."
+https://github.com/openMVG/openMVG,git,OpenMVG (open Multiple View Geometry),http://imagine.enpc.fr/~moulonp/openMVG/,"A library for computer-vision scientists and especially targeted to the Multiple View Geometry community. It is designed to provide easy access to the classical problem solvers in Multiple View Geometry and solve them accurately."
