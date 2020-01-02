@@ -1,4 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/ApolloAuto/apollo,git,ApolloAuto/apollo,,
-https://github.com/commaai/openpilot,git,commaai/openpilot,,
-https://github.com/carla-simulator/carla,git,CARLA Simulator,http://carla.org/,Open-source simulator for autonomous driving research.
+https://github.com/ApolloAuto/apollo,git,Apollo,http://apollo.auto/,"Apollo is a high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles."
+https://github.com/commaai/openpilot,git,openpilot,https://comma.ai/,"openpilot is an open source driver assistance system. Currently, openpilot performs the functions of Adaptive Cruise Control (ACC), Automated Lane Centering (ALC), Forward Collision Warning (FCW) and Lane Departure Warning (LDW) for a growing variety of supported car makes, models and model years. In addition, while openpilot is engaged, a camera based Driver Monitoring (DM) feature alerts distracted and asleep drivers."
+https://github.com/carla-simulator/carla,git,CARLA Simulator,http://carla.org/,"Open-source simulator for autonomous driving research."
