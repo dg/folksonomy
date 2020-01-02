@@ -11,3 +11,5 @@ https://github.com/palantir/tslint,git,TSLint,,
 https://github.com/checkstyle/checkstyle,git,Checkstyle,,
 https://github.com/SonarSource/sonarqube,git,SonarSource/sonarqube,,
 https://github.com/pmd/pmd,git,PMD,https://pmd.github.io/,An extensible multilanguage static code analyzer. 
+https://github.com/facebook/flow,git,Flow,https://flow.org/,"Flow is a static typechecker for JavaScript."
+https://github.com/python/mypy,git,Mypy,http://www.mypy-lang.org/,"Mypy is an optional static type checker for Python. You can add type hints (PEP 484) to your Python programs, and use mypy to type check them statically."
