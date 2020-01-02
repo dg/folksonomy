@@ -1,33 +1,32 @@
 src_url,vcs,name,web_url,description
-https://github.com/tensorflow/tensorflow,git,TensorFlow,https://www.tensorflow.org/,An Open Source Machine Learning Framework for Everyone 
-https://github.com/tensorflow/models,git,TensorFlow Models,,Models and examples built with TensorFlow
-https://github.com/keras-team/keras,git,keras-team/keras,,
-https://github.com/opencv/opencv,git,opencv/opencv,,
-https://github.com/scikit-learn/scikit-learn,git,scikit-learn/scikit-learn,,
-https://github.com/pytorch/pytorch,git,PyTorch,,
-https://github.com/tesseract-ocr/tesseract,git,tesseract-ocr/tesseract,,
-https://github.com/ageitgey/face_recognition,git,ageitgey/face_recognition,,
-https://github.com/deepfakes/faceswap,git,deepfakes/faceswap,,
-https://github.com/apache/incubator-mxnet,git,apache/incubator-mxnet,,
-https://github.com/naptha/tesseract.js,git,naptha/tesseract.js,,
-https://github.com/dmlc/xgboost,git,dmlc/xgboost,,
-https://github.com/explosion/spaCy,git,explosion/spaCy,,
-https://github.com/tensorflow/magenta,git,tensorflow/magenta,,
-https://github.com/machinelearningmindset/TensorFlow-Course,git,machinelearningmindset/TensorFlow-Course,,
-https://github.com/CorentinJ/Real-Time-Voice-Cloning,git,CorentinJ/Real-Time-Voice-Cloning,,
-https://github.com/cmusatyalab/openface,git,cmusatyalab/openface,,
-https://github.com/tensorflow/tfjs,git,tensorflow/tfjs,,
-https://github.com/mozilla/DeepSpeech,git,mozilla/DeepSpeech,,
-https://github.com/eclipse/deeplearning4j,git,eclipse/deeplearning4j,,
-https://github.com/pytorch/examples,git,pytorch/examples,,
-https://github.com/ray-project/ray,git,ray-project/ray,,
-https://github.com/fengdu78/deeplearning_ai_books,git,fengdu78/deeplearning_ai_books,,
-https://github.com/tensorflow/tensor2tensor,git,tensorflow/tensor2tensor,,
-https://github.com/apple/turicreate,git,apple/turicreate,,
-https://github.com/nltk/nltk,git,nltk/nltk,,
-https://github.com/facebookresearch/faiss,git,facebookresearch/faiss,,
-https://github.com/botpress/botpress,git,botpress/botpress,,
-https://github.com/kubeflow/kubeflow,git,kubeflow/kubeflow,,
+https://github.com/tensorflow/tensorflow,git,TensorFlow,https://www.tensorflow.org/,"An Open Source Machine Learning Framework for Everyone."
+https://github.com/tensorflow/models,git,TensorFlow Models,,"Models and examples built with TensorFlow."
+https://github.com/keras-team/keras,git,Keras,http://keras.io/,"Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research."
+https://github.com/opencv/opencv,git,OpenCV,https://opencv.org/,"OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code."
+https://github.com/scikit-learn/scikit-learn,git,scikit-learn,https://scikit-learn.org/stable/,"scikit-learn is a Python module for machine learning built on top of SciPy"
+https://github.com/pytorch/pytorch,git,PyTorch,https://pytorch.org/,"Tensors and Dynamic neural networks in Python with strong GPU acceleration."
+https://github.com/tesseract-ocr/tesseract,git,Tesseract,,"Tesseract 4 adds a new neural net (LSTM) based OCR engine which is focused on line recognition, but also still supports the legacy Tesseract OCR engine of Tesseract 3 which works by recognizing character patterns."
+https://github.com/ageitgey/face_recognition,git,Face Recognition,,"The world's simplest facial recognition api for Python and the command line."
+https://github.com/deepfakes/faceswap,git,FaceSwap,https://www.faceswap.dev/,"FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos."
+https://github.com/apache/incubator-mxnet,git,Apache MXNet,https://mxnet.apache.org/,"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more."
+https://github.com/naptha/tesseract.js,git,Tesseract.js,http://tesseract.projectnaptha.com/,"Tesseract.js is a javascript library that gets words in almost any language out of images."
+https://github.com/dmlc/xgboost,git,XGBoost,https://xgboost.ai/,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow."
+https://github.com/explosion/spaCy,git,spaCy,https://spacy.io/,"Industrial-strength Natural Language Processing (NLP) with Python and Cython."
+https://github.com/tensorflow/magenta,git,Magenta,,"Magenta is a research project exploring the role of machine learning in the process of creating art and music. Primarily this involves developing new deep learning and reinforcement learning algorithms for generating songs, images, drawings, and other materials. But it's also an exploration in building smart tools and interfaces that allow artists and musicians to extend (not replace!) their processes using these models. Magenta was started by some researchers and engineers from the Google Brain team, but many others have contributed significantly to the project."
+https://github.com/machinelearningmindset/TensorFlow-Course,git,TensorFlow Course,,"Simple and ready-to-use tutorials for TensorFlow."
+https://github.com/CorentinJ/Real-Time-Voice-Cloning,git,Real-Time Voice Cloning,,"Clone a voice in 5 seconds to generate arbitrary speech in real-time."
+https://github.com/cmusatyalab/openface,git,OpenFace,http://cmusatyalab.github.io/openface/,"Face recognition with deep neural networks."
+https://github.com/tensorflow/tfjs,git,TensorFlow.js,https://js.tensorflow.org/,"A WebGL accelerated JavaScript library for training and deploying ML models."
+https://github.com/mozilla/DeepSpeech,git,DeepSpeech,,"A TensorFlow implementation of Baidu's DeepSpeech architecture."
+https://github.com/eclipse/deeplearning4j,git,Deeplearning4j,http://deeplearning4j.org/,"Eclipse Deeplearning4j, ND4J, DataVec and more - deep learning & linear algebra for Java/Scala with GPUs + Spark."
+https://github.com/pytorch/examples,git,PyTorch Examples,,"A set of examples around PyTorch in Vision, Text, Reinforcement Learning, etc."
+https://github.com/ray-project/ray,git,Ray,https://ray.io/,"A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library."
+https://github.com/tensorflow/tensor2tensor,git,Tensor2Tensor,,"Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research."
+https://github.com/apple/turicreate,git,Turi Create,https://apple.github.io/turicreate/docs/userguide/,"Turi Create is a project by Apple that simplifies the development of custom machine learning models."
+https://github.com/nltk/nltk,git,NLTK,http://nltk.org/,"NLTK -- the Natural Language Toolkit -- is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing."
+https://github.com/facebookresearch/faiss,git,Faiss,,"Faiss is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy. Some of the most useful algorithms are implemented on the GPU. It is developed by Facebook AI Research."
+https://github.com/botpress/botpress,git,Botpress,https://botpress.io/,"The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants."
+https://github.com/kubeflow/kubeflow,git,Kubeflow,http://kubeflow.org/,"Kubeflow is a Cloud Native platform for machine learning based on Google’s internal machine learning pipelines."
 https://github.com/kaldi-asr/kaldi,git,kaldi-asr/kaldi,,
 https://github.com/allenai/allennlp,git,allenai/allennlp,,
 https://github.com/Unity-Technologies/ml-agents,git,Unity-Technologies/ml-agents,,
