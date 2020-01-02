@@ -1,13 +1,13 @@
 src_url,vcs,name,web_url,description
-https://github.com/chartjs/Chart.js,git,chartjs/Chart.js,,
-https://github.com/apache/incubator-echarts,git,apache/incubator-echarts,,
-https://github.com/mermaid-js/mermaid,git,mermaid-js/mermaid,,
-https://github.com/bokeh/bokeh,git,bokeh/bokeh,,
-https://github.com/plotly/plotly.js,git,plotly/plotly.js,,
-https://github.com/matplotlib/matplotlib,git,matplotlib/matplotlib,,
-https://github.com/plotly/dash,git,plotly/dash,,
-https://github.com/highcharts/highcharts,git,highcharts/highcharts,,
-https://github.com/plotly/plotly.py,git,plotly/plotly.py,,
-https://github.com/tidyverse/ggplot2,git,tidyverse/ggplot2,,
-https://github.com/d3/d3,git,D3 (Data-Driven Documents),https://d3js.org/,"D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation."
-https://github.com/recharts/recharts,git,Recharts,http://recharts.org/,A composable charting library built with React and D3
+https://github.com/chartjs/Chart.js,git,Chart.js,https://www.chartjs.org/,"Simple HTML5 Charts using the <canvas> tag."
+https://github.com/apache/incubator-echarts,git,ECharts,http://echarts.apache.org/,"A powerful, interactive charting and visualization library for browser."
+https://github.com/mermaid-js/mermaid,git,mermaid,http://mermaid-js.github.io/mermaid/,"Generation of diagram and flowchart from text in a similar manner as markdown."
+https://github.com/bokeh/bokeh,git,Bokeh,https://bokeh.org/,"Interactive Data Visualization in the browser, from Python."
+https://github.com/plotly/plotly.js,git,plotly.js,https://plot.ly/javascript/,"Open-source JavaScript charting library behind Plotly and Dash. Built on top of d3.js and stack.gl, plotly.js is a high-level, declarative charting library. It ships with over 40 chart types, including scientific charts, 3D graphs, statistical charts, SVG maps, financial charts, and more."
+https://github.com/matplotlib/matplotlib,git,Matplotlib,https://matplotlib.org/,"Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits."
+https://github.com/plotly/dash,git,Dash,https://plot.ly/dash,"Analytical Web Apps for Python & R. No JavaScript Required."
+https://github.com/highcharts/highcharts,git,Highcharts JS,https://www.highcharts.com/,"Highcharts JS is a JavaScript charting library based on SVG, with fallbacks to VML and canvas for old browsers."
+https://github.com/plotly/plotly.py,git,plotly.py,https://plot.ly/python/,"plotly.py is an interactive, open-source, and browser-based graphing library for Python."
+https://github.com/tidyverse/ggplot2,git,ggplot2,https://ggplot2.tidyverse.org/,"ggplot2 is a system for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details."
+https://github.com/d3/d3,git,D3,https://d3js.org/,"D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation."
+https://github.com/recharts/recharts,git,Recharts,http://recharts.org/,"A composable charting library built with React and D3."
