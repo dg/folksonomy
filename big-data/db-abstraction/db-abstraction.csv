@@ -1,2 +1,0 @@
-src_url,vcs,name,web_url,description
-https://github.com/doctrine/dbal,git,Doctrine DBAL,https://www.doctrine-project.org/projects/dbal.html,"Powerful PHP database abstraction layer (DBAL) with many features for database schema introspection and management."
