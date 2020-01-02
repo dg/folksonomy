@@ -1,2 +1,2 @@
 src_url,vcs,name,web_url,description
-https://github.com/knex/knex,git,knex/knex,,
+https://github.com/knex/knex,git,knex.js,http://knexjs.org/,"A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use."
