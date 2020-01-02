@@ -1,4 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/dbeaver/dbeaver,git,dbeaver/dbeaver,,
-https://github.com/phpmyadmin/phpmyadmin,git,phpmyadmin/phpmyadmin,,
-https://github.com/cloudera/hue,git,cloudera/hue,,
+https://github.com/dbeaver/dbeaver,git,DBeaver,http://dbeaver.io/,"Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports any database which has JDBC driver (which basically means - ANY database). EE version also supports non-JDBC datasources (WMI, MongoDB, Cassandra, Redis)."
+https://github.com/phpmyadmin/phpmyadmin,git,phpMyAdmin,https://www.phpmyadmin.net/,"phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL and MariaDB. Frequently used operations (managing databases, tables, columns, relations, indexes, users, permissions, etc) can be performed via the user interface, while you still have the ability to directly execute any SQL statement."
+https://github.com/cloudera/hue,git,Hue,https://gethue.com/,"Open source SQL Query Assistant for Databases/Warehouses."
