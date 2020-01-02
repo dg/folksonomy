@@ -1,4 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/apache/incubator-superset,git,apache/incubator-superset,,
-https://github.com/getredash/redash,git,getredash/redash,,
-https://github.com/apache/zeppelin,git,apache/zeppelin,,
+https://github.com/apache/incubator-superset,git,Apache Superset,,"Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application."
+https://github.com/getredash/redash,git,Redash,http://redash.io/,"Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+https://github.com/apache/zeppelin,git,Apache Zeppelin,https://zeppelin.apache.org/,"Zeppelin, a web-based notebook that enables interactive data analytics. You can make beautiful data-driven, interactive and collaborative documents with SQL, Scala and more."
