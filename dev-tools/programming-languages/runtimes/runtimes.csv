@@ -1,6 +1,7 @@
 src_url,vcs,name,web_url,description
-https://github.com/nodejs/node,git,Node.js,https://nodejs.org/,Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-https://github.com/denoland/deno,git,denoland/deno,,
-https://github.com/TypeStrong/ts-node,git,TS Node,,"TypeScript execution and REPL for node.js, with source map support. "
-https://github.com/openjdk/jdk,git,OpenJDK,http://openjdk.java.net/,Oracle remains committed to OpenJDK as the best open-source Java implementation and will continue to improve OpenJDK and welcome external contributors.
+https://github.com/nodejs/node,git,Node.js,https://nodejs.org/,"Node.js® is a server-side JavaScript runtime built on Chrome's V8 JavaScript engine."
+https://github.com/denoland/deno,git,Deno,https://deno.land/,"Deno aims to provide a productive and secure JavaScript and TypeScript runtime for the modern programmer. It is built on top of V8, Rust, and TypeScript."
+https://github.com/TypeStrong/ts-node,git,TS Node,,"TypeScript execution and REPL for node.js, with source map support."
+https://github.com/openjdk/jdk,git,OpenJDK,http://openjdk.java.net/,"Oracle remains committed to OpenJDK as the best open-source Java implementation and will continue to improve OpenJDK and welcome external contributors."
 https://github.com/dotnet/runtime,git,.NET Core runtime,https://docs.microsoft.com/en-us/dotnet/core/,".NET is a cross-platform runtime for cloud, IoT, and desktop apps."
+https://github.com/facebook/hhvm,git,HHVM,https://hhvm.com/,"HHVM is an open-source virtual machine designed for executing programs written in Hack. HHVM uses a just-in-time (JIT) compilation approach to achieve great runtime performance while maintaining amazing development flexibility."
