@@ -1,14 +1,14 @@
 src_url,vcs,name,web_url,description
-https://github.com/kubernetes/kubernetes,git,Kubernetes (K8s),https://kubernetes.io/,"An open-source system for automating deployment, scaling, and management of containerized applications."
-https://github.com/istio/istio,git,istio/istio,,
-https://github.com/hashicorp/consul,git,hashicorp/consul,,
-https://github.com/kubernetes/minikube,git,kubernetes/minikube,,
-https://github.com/rancher/rancher,git,rancher/rancher,,
-https://github.com/saltstack/salt,git,saltstack/salt,,
-https://github.com/kubernetes/kops,git,kubernetes/kops,,
-https://github.com/alibaba/nacos,git,alibaba/nacos,,
-https://github.com/openshift/origin,git,openshift/origin,,
-https://github.com/rook/rook,git,rook/rook,,
-https://github.com/kubernetes/ingress-nginx,git,kubernetes/ingress-nginx,,
-https://github.com/hashicorp/nomad,git,hashicorp/nomad,,
+https://github.com/kubernetes/kubernetes,git,Kubernetes,https://kubernetes.io/,"An open-source system for automating deployment, scaling, and management of containerized applications."
+https://github.com/istio/istio,git,Istio,https://istio.io/,"An open platform to connect, manage, and secure microservices."
+https://github.com/hashicorp/consul,git,Consul,https://www.consul.io/,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+https://github.com/kubernetes/minikube,git,minikube,https://minikube.sigs.k8s.io/,"Local Kubernetes, focused on application development & education."
+https://github.com/rancher/rancher,git,Rancher,http://rancher.com/,"Rancher is an open source project that provides a container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams."
+https://github.com/saltstack/salt,git,Salt,https://repo.saltstack.com/,"Software to automate the management and configuration of any infrastructure or application at scale."
+https://github.com/kubernetes/kops,git,kops,https://kops.sigs.k8s.io/,"Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management."
+https://github.com/alibaba/nacos,git,Nacos,https://nacos.io/,"Nacos is an easy-to-use platform designed for dynamic service discovery and configuration and service management. It helps you to build cloud native applications and microservices platform easily."
+https://github.com/openshift/origin,git,Origin Kubernetes,http://www.openshift.org/,"The self-managing, auto-upgrading, Kubernetes distribution for everyone."
+https://github.com/rook/rook,git,Rook,https://rook.io/,"Rook is an open source cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and support for a diverse set of storage solutions to natively integrate with cloud-native environments."
+https://github.com/kubernetes/ingress-nginx,git,NGINX Ingress Controller,https://kubernetes.github.io/ingress-nginx/,"NGINX Ingress Controller for Kubernetes."
+https://github.com/hashicorp/nomad,git,Nomad,https://www.nomadproject.io/,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
 https://github.com/docker/swarm,git,Docker Swarm,https://docs.docker.com/swarm/overview/,"A native clustering system for Docker. It turns a pool of Docker hosts into a single, virtual host using an API proxy system."
