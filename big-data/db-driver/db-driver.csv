@@ -1,4 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/mongodb/node-mongodb-native,git,mongodb/node-mongodb-native,,
-https://github.com/mongodb/mongo-java-driver,git,MongoDB Java Driver,https://mongodb.github.io/mongo-java-driver/,The Java driver for MongoDB
-https://github.com/mongodb/mongo-python-driver,git,PyMongo,https://pymongo.readthedocs.io/,PyMongo - the Python driver for MongoDB
+https://github.com/mongodb/node-mongodb-native,git,MongoDB Native NodeJS Driver,https://mongodb.github.io/node-mongodb-native/,"The official MongoDB Node.js driver provides both callback-based and Promise-based interaction with MongoDB, allowing applications to take full advantage of the new features in ES6. The 2.x series of the driver is powered by a brand new core driver and BSON library."
+https://github.com/mongodb/mongo-java-driver,git,MongoDB Java Driver,https://mongodb.github.io/mongo-java-driver/,"The Java driver for MongoDB."
+https://github.com/mongodb/mongo-python-driver,git,PyMongo,https://pymongo.readthedocs.io/,"PyMongo - the Python driver for MongoDB."
