@@ -1,0 +1,2 @@
+src_url,vcs,name,web_url,description
+https://github.com/ipython/ipython,git,IPython,https://ipython.readthedocs.org/,"One of Python’s most useful features is its interactive interpreter. It allows for very fast testing of ideas without the overhead of creating test files as is typical in most programming languages. However, the interpreter supplied with the standard Python distribution is somewhat limited for extended interactive use. The goal of IPython is to create a comprehensive environment for interactive and exploratory computing."
