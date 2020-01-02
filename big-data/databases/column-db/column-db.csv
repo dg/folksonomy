@@ -1,5 +1,5 @@
 src_url,vcs,name,web_url,description
-https://github.com/ClickHouse/ClickHouse,git,ClickHouse/ClickHouse,,
-https://github.com/apache/cassandra,git,apache/cassandra,,
-https://github.com/apache/arrow,git,apache/arrow,,
+https://github.com/ClickHouse/ClickHouse,git,ClickHouse,https://clickhouse.yandex/,"ClickHouse is an open-source column-oriented database management system that allows generating analytical data reports in real time."
+https://github.com/apache/cassandra,git,Apache Cassandra,http://cassandra.apache.org/,"Apache Cassandra is a highly-scalable partitioned row store. Rows are organized into tables with a required primary key."
+https://github.com/apache/arrow,git,Apache Arrow,https://arrow.apache.org/,"Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware."
 https://github.com/apache/hbase,git,Apache HBase,http://hbase.apache.org/,"The Hadoop database, a distributed, scalable, big data store. Use Apache HBase™ when you need random, realtime read/write access to your Big Data. This project's goal is the hosting of very large tables -- billions of rows X millions of columns -- atop clusters of commodity hardware. Apache HBase is an open-source, distributed, versioned, non-relational database modeled after Google's Bigtable: A Distributed Storage System for Structured Data by Chang et al. Just as Bigtable leverages the distributed data storage provided by the Google File System, Apache HBase provides Bigtable-like capabilities on top of Hadoop and HDFS."
