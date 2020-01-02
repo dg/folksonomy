@@ -1,6 +1,6 @@
 src_url,vcs,name,web_url,description
 https://github.com/numpy/numpy,git,NumPy,https://www.numpy.org/,"The fundamental package for scientific computing with Python."
-https://github.com/scipy/scipy,git,SciPy,https://scipy.org/scipylib/,"SciPy (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more."
+https://github.com/scipy/scipy,git,SciPy,https://scipy.org/scipylib/,"SciPy (pronounced ""Sigh Pie"") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more."
 https://github.com/sympy/sympy,git,SymPy,https://sympy.org/,"A Python library for symbolic mathematics."
 https://github.com/statsmodels/statsmodels,git,Statsmodels,http://www.statsmodels.org/devel/,"Statsmodels: statistical modeling and econometrics in Python."
 https://github.com/scipy-lectures/scipy-lecture-notes,git,Scipy Lecture Notes,http://scipy-lectures.org/,"Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques."
