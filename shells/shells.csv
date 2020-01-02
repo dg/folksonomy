@@ -1,2 +1,0 @@
-src_url,vcs,name,web_url,description
-https://github.com/prompt-toolkit/python-prompt-toolkit,git,Python Prompt Toolkit 3.0,https://python-prompt-toolkit.readthedocs.io/,"A library for building powerful interactive command line and terminal applications in Python. It can be a very advanced pure Python replacement for GNU readline, but it can also be used for building full screen applications."
