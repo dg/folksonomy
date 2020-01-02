@@ -1,9 +1,7 @@
 src_url,vcs,name,web_url,description
-https://github.com/microsoft/TypeScript,git,TypeScript,https://www.typescriptlang.org/,TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-https://github.com/babel/babel,git,Babel,,
-https://github.com/facebook/flow,git,facebook/flow,,
-https://github.com/emscripten-core/emscripten,git,emscripten-core/emscripten,,
-https://github.com/jashkenas/coffeescript,git,CoffeeScript,,
-https://github.com/python/mypy,git,python/mypy,,
-https://github.com/google/closure-compiler,git,ClosureCompiler,,
-https://github.com/dart-lang/sdk,git,Dart,https://dart.dev/,"A client-optimized language for fast apps on any platform. The Dart SDK, including the VM, dart2js, core libraries, and more. "
+https://github.com/microsoft/TypeScript,git,TypeScript,https://www.typescriptlang.org/,"TypeScript is a typed superset of JavaScript that compiles to plain JavaScript."
+https://github.com/babel/babel,git,Babel,https://babeljs.io/,"Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments."
+https://github.com/emscripten-core/emscripten,git,Emscripten,http://emscripten.org/,"Emscripten compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes."
+https://github.com/jashkenas/coffeescript,git,CoffeeScript,https://coffeescript.org/,"CoffeeScript is a little language that compiles into JavaScript."
+https://github.com/google/closure-compiler,git,ClosureCompiler,https://developers.google.com/closure/compiler/,"The Closure Compiler is a tool for making JavaScript download and run faster. It is a true compiler for JavaScript. Instead of compiling from a source language to machine code, it compiles from JavaScript to better JavaScript. It parses your JavaScript, analyzes it, removes dead code and rewrites and minimizes what's left. It also checks syntax, variable references, and types, and warns about common JavaScript pitfalls."
+https://github.com/dart-lang/sdk,git,Dart,https://dart.dev/,"A client-optimized language for fast apps on any platform. The Dart SDK, including the VM, dart2js, core libraries, and more."
