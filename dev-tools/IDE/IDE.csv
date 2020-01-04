@@ -1,9 +1,9 @@
 src_url,vcs,name,web_url,description
-https://github.com/microsoft/vscode,git,Visual Studio Code,https://code.visualstudio.com/,Visual Studio Code
-https://github.com/syl20bnr/spacemacs,git,syl20bnr/spacemacs,,
-https://github.com/jupyterlab/jupyterlab,git,jupyterlab/jupyterlab,,
-https://github.com/JetBrains/intellij-community,git,IntelliJ IDEA,,
-https://github.com/codesandbox/codesandbox-client,git,codesandbox/codesandbox-client,,
-https://github.com/jupyter/notebook,git,jupyter/notebook,,
-https://github.com/eclipse/che,git,eclipse/che,,
-https://github.com/spyder-ide/spyder,git,spyder-ide/spyder,,
+https://github.com/microsoft/vscode,git,Visual Studio Code,https://code.visualstudio.com/,"Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity)."
+https://github.com/syl20bnr/spacemacs,git,Spacemacs,http://spacemacs.org/,"A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!"
+https://github.com/jupyterlab/jupyterlab,git,JupyterLab,https://jupyterlab.readthedocs.io/,"JupyterLab is the next-generation user interface for Project Jupyter offering all the familiar building blocks of the classic Jupyter Notebook (notebook, terminal, text editor, file browser, rich outputs, etc.) in a flexible and powerful user interface. JupyterLab will eventually replace the classic Jupyter Notebook."
+https://github.com/JetBrains/intellij-community,git,IntelliJ IDEA,http://www.jetbrains.com/idea/,"IntelliJ IDEA Community Edition."
+https://github.com/codesandbox/codesandbox-client,git,CodeSandbox,https://codesandbox.io/,"An online IDE for rapid web development."
+https://github.com/jupyter/notebook,git,Jupyter notebook,https://jupyter-notebook.readthedocs.io/,"Jupyter notebook is the language-agnostic evolution of IPython notebook."
+https://github.com/eclipse/che,git,Eclipse Che,http://eclipse.org/che,"Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE."
+https://github.com/spyder-ide/spyder,git,Spyder,https://www.spyder-ide.org/,"Spyder is a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It offers a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package."
