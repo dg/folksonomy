@@ -7,3 +7,4 @@ https://github.com/facebook/folly,git,Folly,https://groups.google.com/forum/?fro
 https://github.com/typelevel/cats,git,Cats,http://typelevel.org/cats/,"Lightweight, modular, and extensible library for functional programming."
 https://github.com/boostorg/boost,git,Boost,https://github.com/boostorg/boost/wiki/Getting-Started,"Free peer-reviewed portable C++ source libraries."
 https://github.com/kvz/locutus,git,Locutus,http://locutus.io/,"A project that seeks to assimilate other languages’ standard libraries to JavaScript."
+https://github.com/microsoft/STL,git,Microsoft STL,,"MSVC's implementation of the C++ Standard Library."
