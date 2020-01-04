@@ -1,5 +1,5 @@
 src_url,vcs,name,web_url,description
-https://github.com/atom/atom,git,atom/atom,,
-https://github.com/neovim/neovim,git,neovim/neovim,,
-https://github.com/vim/vim,git,vim/vim,,
-https://github.com/notepad-plus-plus/notepad-plus-plus,git,notepad-plus-plus/notepad-plus-plus,,
+https://github.com/atom/atom,git,Atom,https://atom.io/,"Atom is a hackable text editor for the 21st century, built on Electron by GitHub."
+https://github.com/neovim/neovim,git,Neovim,https://neovim.io/,"Vim-fork focused on extensibility and usability."
+https://github.com/vim/vim,git,vim,https://www.vim.org/,"Vim is a greatly improved version of the good old UNIX editor Vi."
+https://github.com/notepad-plus-plus/notepad-plus-plus,git,Notepad++,https://notepad-plus-plus.org/,"Notepad++ is a code editor for Windows."
