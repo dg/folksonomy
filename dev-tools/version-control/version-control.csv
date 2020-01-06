@@ -1,10 +1,10 @@
 src_url,vcs,name,web_url,description
-https://github.com/git/git,git,git/git,,
-https://github.com/gitlabhq/gitlabhq,git,gitlabhq/gitlabhq,,
-https://github.com/ovity/octotree,git,ovity/octotree,,
-https://github.com/go-gitea/gitea,git,go-gitea/gitea,,
-https://github.com/desktop/desktop,git,desktop/desktop,,
-https://github.com/git-lfs/git-lfs,git,git-lfs/git-lfs,,
-https://github.com/libgit2/libgit2,git,libgit2/libgit2,,
-https://github.com/gitextensions/gitextensions,git,gitextensions/gitextensions,,
-https://github.com/octokit/octokit.rb,git,Octokit,http://octokit.github.io/octokit.rb/,Ruby toolkit for the GitHub API
+https://github.com/git/git,git,Git,https://git-scm.com/,"Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals."
+https://github.com/gitlabhq/gitlabhq,git,GitLab CE,https://about.gitlab.com/,"The entire DevOps lifecycle in one application."
+https://github.com/ovity/octotree,git,Octotree,https://www.octotree.io/,"Browser extension that brings GitHub experience to the next level."
+https://github.com/go-gitea/gitea,git,Gitea,https://gitea.io/,"Painless self-hosted git service."
+https://github.com/desktop/desktop,git,GitHub Desktop,https://desktop.github.com/,"GitHub Desktop is an open source Electron-based GitHub app. It is written in TypeScript and uses React."
+https://github.com/git-lfs/git-lfs,git,Git LFS,https://git-lfs.github.com/,"Git extension for versioning large files."
+https://github.com/libgit2/libgit2,git,libgit2,https://libgit2.org/,"libgit2 is a portable, pure C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality into your application."
+https://github.com/gitextensions/gitextensions,git,Git Extensions,https://gitextensions.github.io/,"Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019)."
+https://github.com/octokit/octokit.rb,git,Octokit,http://octokit.github.io/octokit.rb/,"Ruby toolkit for the GitHub API."
